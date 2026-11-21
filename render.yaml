@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: duck-browser
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /health
+    envVars:
+      - key: HOST
+        value: 0.0.0.0
+      - key: DUCK_PASSWORD
+        sync: false
