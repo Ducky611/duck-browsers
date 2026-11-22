@@ -2245,6 +2245,7962 @@ const recentMovies = [
         "url": "https://nxsha.space/watch/movie/533535"
       }
     ]
+  },
+  {
+    "id": "film:nxsha-986056",
+    "title": "Thunderbolts*",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/986056",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/986056"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1284777",
+    "title": "Oscar: Return of the Mammoth",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1284777",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/2NlDqOhYotm9jLWPmjaG4S1Iqn3.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1284777"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-911430",
+    "title": "F1",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/911430",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/911430"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-617126",
+    "title": "The Fantastic 4: First Steps",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/617126",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/617126"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1061474",
+    "title": "Superman",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1061474",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1061474"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1233413",
+    "title": "Sinners",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1233413",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1233413"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1242898",
+    "title": "Predator: Badlands",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1242898",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1242898"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1234821",
+    "title": "Jurassic World Rebirth",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1234821",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1234821"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-575265",
+    "title": "Mission: Impossible - The Final Reckoning",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/575265",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/iKPsC9EFUafRP9SrUznI61getVP.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/575265"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1242265",
+    "title": "Fuze",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1242265",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1242265"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1087192",
+    "title": "How to Train Your Dragon",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1087192",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1087192"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1197306",
+    "title": "A Working Man",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1197306",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1197306"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-822119",
+    "title": "Captain America: Brave New World",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/822119",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/822119"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1387382",
+    "title": "Hunting Season",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1387382",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1387382"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-950387",
+    "title": "A Minecraft Movie",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/950387",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/950387"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-696506",
+    "title": "Mickey 17",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/696506",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/696506"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1011477",
+    "title": "Karate Kid: Legends",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1011477",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/c90Lt7OQGsOmhv6x4JoFdoHzw5l.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1011477"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1234731",
+    "title": "Anaconda",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1234731",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1234731"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1175942",
+    "title": "The Bad Guys 2",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1175942",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/26oSPnq0ct59l07QOXZKyzsiRtN.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1175942"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-991494",
+    "title": "The SpongeBob Movie: Search for SquarePants",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/991494",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/991494"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-967941",
+    "title": "Wicked: For Good",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/967941",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/967941"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1022787",
+    "title": "Elio",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1022787",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/7z8jDiTZZco9moIKpTUImFtTy7o.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1022787"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-533533",
+    "title": "TRON: Ares",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/533533",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/533533"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-803796",
+    "title": "KPop Demon Hunters",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/803796",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/803796"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1539104",
+    "title": "JUJUTSU KAISEN: Execution",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1539104",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/v0s3dx6am0RzfsuK3KdEy8ZoCDs.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1539104"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1144107",
+    "title": "The Legend of Hei 2",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1144107",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/dRCUBiTKtsmju3fmSS4MK0ywcqR.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1144107"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1376434",
+    "title": "Predator: Killer of Killers",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1376434",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1376434"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1497970",
+    "title": "Tom and Jerry: Forbidden Compass",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1497970",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/5qttWFjsO62k88civZaDMHiBTvy.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1497970"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-774370",
+    "title": "Dog Man",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/774370",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/89wNiexZdvLQ41OQWIsQy4O6jAQ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/774370"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1406657",
+    "title": "Scarlet",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1406657",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/2O2tOyS4kvO9GtFPHpWmbXvfRQv.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1406657"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1167307",
+    "title": "David",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1167307",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/7lFG1WrCwAxBfyGK8ahlBVzXno7.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1167307"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1333141",
+    "title": "Lesbian Space Princess",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1333141",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/bmf6spk0WZ10lz4eAK95P1zRB4F.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1333141"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-936108",
+    "title": "Smurfs",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/936108",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/8o6lkhL32xQJeB52IIG1us5BVey.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/936108"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1396965",
+    "title": "Detective Conan: One-Eyed Flashback",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1396965",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/1wl6eAHbIDSz61tGwYTOKlSRvZb.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1396965"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1427833",
+    "title": "A Mouse Hunt for Christmas",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1427833",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/2LgEDVRubQNsWzgJaUfIV4DcW7S.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1427833"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1280282",
+    "title": "Gabby's Dollhouse: The Movie",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1280282",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/t6LLguAmu6iZUN8pWhT7Q0IcaQ5.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1280282"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1054867",
+    "title": "One Battle After Another",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1054867",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1054867"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1274837",
+    "title": "Million Dollar Madness",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1274837",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/eDIazOrqDZJE2DAm1wwSwNGvtwb.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1274837"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-552524",
+    "title": "Lilo & Stitch",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/552524",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/ckQzKpQJO4ZQDCN5evdpKcfm7Ys.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/552524"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-812583",
+    "title": "Wake Up Dead Man: A Knives Out Mystery",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/812583",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/iV9LM8aUb83BjCCx2RUnKE5sSQg.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/812583"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-701387",
+    "title": "Bugonia",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/701387",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/701387"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1559984",
+    "title": "My Weird School",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1559984",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/y0rRAxg4WBC91IKRAaGckQysrG0.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1559984"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1489187",
+    "title": "You Drive Me Crazy",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1489187",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/uk20xvDxx36RAOnYCy86yiUGFP8.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1489187"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-639988",
+    "title": "No Other Choice",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/639988",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/639988"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1284120",
+    "title": "The Ugly Stepsister",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1284120",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/rayAREIKtSinuov10GvrZHyXfXH.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1284120"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1447053",
+    "title": "Don't Mess With Baba Yaga",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1447053",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/j3z0cawV5kaxVuTqKkKeWOqAvCS.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1447053"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1035259",
+    "title": "The Naked Gun",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1035259",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/rwla9vqzrKVVKVKiOuROTIXGsxj.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1035259"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1259102",
+    "title": "Eternity",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1259102",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/yiwGcjfDKXD5PqQnyKUU9kspWQQ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1259102"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-541671",
+    "title": "Ballerina",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/541671",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/541671"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-425274",
+    "title": "Now You See Me: Now You Don't",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/425274",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/425274"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1007734",
+    "title": "Nobody 2",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1007734",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/svXVRoRSu6zzFtCzkRsjZS7Lqpd.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1007734"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1242419",
+    "title": "Roofman",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1242419",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/wXDFtcnYtevleGzCmAD2ReQnJ4l.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1242419"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-668489",
+    "title": "Havoc",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/668489",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/r46leE6PSzLR3pnVzaxx5Q30yUF.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/668489"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-870028",
+    "title": "The Accountant²",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/870028",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/lUvfTcOZiK0sdcX0WNLPbMyKjGm.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/870028"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1295400",
+    "title": "The Last Viking",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1295400",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/cgvGExc0kfHRUffTKBSQHPKchrq.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1295400"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-941109",
+    "title": "Play Dirty",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/941109",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/ovZ0zq0NwRghtWI1oLaM0lWuoEw.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/941109"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1426776",
+    "title": "STRAW",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1426776",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1426776"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1220564",
+    "title": "The Secret Agent",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1220564",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1220564"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1516391",
+    "title": "Cover-Up",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1516391",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/3kVAkwPrNNw3kxe2yJVatj86QKo.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1516391"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1412113",
+    "title": "Squid Game: Making Season 2",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1412113",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/yQGaui0bQ5Ai3KIFBB45nTeIqad.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1412113"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1492608",
+    "title": "John Candy: I Like Me",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1492608",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/mNEJdx9WSXeyMmkuQfTeY4zouNx.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1492608"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1522126",
+    "title": "1000 Men and Me: The Bonnie Blue Story",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1522126",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/5dcgoyf8nt6Xt4VSR6Nrn6nwhuz.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1522126"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1714803",
+    "title": "Sex in Drag",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1714803",
+    "provider": "Nxsha",
+    "thumb": "",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1714803"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1426306",
+    "title": "Titan: The OceanGate Submersible Disaster",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1426306",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/mSVJI9P5UmvOLZVTH8sAtlgxsgy.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1426306"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1426518",
+    "title": "Being Eddie",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1426518",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/8behxK3x7kiCupdrENmOCkOcs8N.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1426518"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1304800",
+    "title": "The Lion King at the Hollywood Bowl",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1304800",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/q0amPqVnEC3uG9H34PSBr8IaVLP.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1304800"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1308619",
+    "title": "Jaws @ 50: The Definitive Inside Story",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1308619",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/kCvCb548scfD0HhkCAwBMKHey5b.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1308619"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1448497",
+    "title": "Ocean with David Attenborough",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1448497",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/oAKzcqUCP3EK7rgAx9Jj8Futv8O.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1448497"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1400782",
+    "title": "The Perfect Neighbor",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1400782",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/2NE7yN45zo19o4LJr6JFxDWmh2b.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1400782"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1461714",
+    "title": "My Mom Jayne",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1461714",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/6KpfMouMavYr1UwTz6612YhYjbs.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1461714"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1393151",
+    "title": "Mr. Nobody Against Putin",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1393151",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/ss4NEGmPxgm4D73iMFeyjbE1m9b.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1393151"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1537847",
+    "title": "CIRILO, A Legacy Untold",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1537847",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/fqUn103Ypp5GB8jVQVQ98LpOTYJ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1537847"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1447091",
+    "title": "Meet the Pickles: The Making of \"Win or Lose\"",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1447091",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/oeAPEyLslHV9BzeQvdLHPOUOZ7v.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1447091"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1400780",
+    "title": "Come See Me in the Good Light",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1400780",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/5AFbcDGT78cLZTyHTSDBohczjuO.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1400780"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1517772",
+    "title": "Unknown Number: The High School Catfish",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1517772",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/nu3LtgefE2lsgYw1hxHZFoBXk9U.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1517772"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1309373",
+    "title": "Whispers in the Woods",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1309373",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/6UCVRxRpZRXfDUPu9vwoGUEPYQ3.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1309373"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1433947",
+    "title": "Who Is Luigi Mangione?",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1433947",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/lfGZ8tjK4HVTRjmD5X9JIKDepGC.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1433947"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1421461",
+    "title": "Ladies & Gentlemen... 50 Years of SNL Music",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1421461",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/wiIfy2MXau1VPdi6z0Z0oYYT7ne.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1421461"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1310458",
+    "title": "Saayavanam",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1310458",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/tSuqCq3YYLS8VOdiU9ikKOBs5Tz.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1310458"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1359916",
+    "title": "5 Centimeters per Second",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1359916",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/wjLrVkmeZLk8iw1grULvoQgRG4u.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1359916"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1062722",
+    "title": "Frankenstein",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1062722",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1062722"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1156594",
+    "title": "Our Fault",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1156594",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/yzqHt4m1SeY9FbPrfZ0C2Hi9x1s.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1156594"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1317149",
+    "title": "I Swear",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1317149",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1317149"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1317288",
+    "title": "Marty Supreme",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1317288",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1317288"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1522545",
+    "title": "Mary Christmas",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1522545",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/9IToY3FhrwpT3dmKfKjUottl5ci.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1522545"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1329673",
+    "title": "The Sun Rises on Us All",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1329673",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/7vySZlIzogNMwSMGWgREc1OXDSb.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1329673"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1214931",
+    "title": "Nuremberg",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1214931",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/xthXNYltOOm80vW5Kxjzxx5gvQ6.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1214931"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1294203",
+    "title": "My Fault: London",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1294203",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1294203"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-858024",
+    "title": "Hamnet",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/858024",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/858024"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-982843",
+    "title": "The Great Flood",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/982843",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/1tUOZQDgZaGqZtrB21MieiXARL2.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/982843"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-447273",
+    "title": "Snow White",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/447273",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/oLxWocqheC8XbXbxqJ3x422j9PW.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/447273"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-927254",
+    "title": "The Twits",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/927254",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/zNP1nMRFqa9qAkpCkLeHa1V7kDR.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/927254"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1392796",
+    "title": "Diary of a Wimpy Kid: The Last Straw",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1392796",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/emcCjpC289NxAGuVwlItHCTrgT7.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1392796"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1246049",
+    "title": "Dracula",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1246049",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/ykyRfv7JDofLxXLAwtLXaSuaFfM.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1246049"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-842924",
+    "title": "The Life of Chuck",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/842924",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/reMosvnsgjXk1fU40KYx5vKjzGS.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/842924"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1153714",
+    "title": "Death of a Unicorn",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1153714",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1153714"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1480382",
+    "title": "The Voice of Hind Rajab",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1480382",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/q7M8kQB46T11vmDMD6E239jsqTz.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1480382"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1296404",
+    "title": "Good News",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1296404",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/uA3o8q7JTym6lUM8pnITwQDfvhO.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1296404"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-556574",
+    "title": "Hamilton",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/556574",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/556574"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1185528",
+    "title": "Legends of the Condor Heroes: The Gallants",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1185528",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/fUCFEGFlMIFet9ja72JDAeG1he8.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1185528"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-760329",
+    "title": "The Smashing Machine",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/760329",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/cwwvrdYeIrARXdiv09GIO6XWK5l.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/760329"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1042834",
+    "title": "Eden",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1042834",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/jbFEESMVbpJU8IjZBjiWGJdEsxR.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1042834"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1328803",
+    "title": "Prisoner of War",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1328803",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/uHNuUIdF35dRSLQQ5Ej0aOhmvB3.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1328803"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1401281",
+    "title": "The Testament of Ann Lee",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1401281",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1401281"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1235304",
+    "title": "Colours of Time",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1235304",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/hPj1RiuhW72lIfa8UrIncDGSSD0.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1235304"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1287322",
+    "title": "Christy",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1287322",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/fDsxBOmBFL57QtKM9kTJ3AQU8lD.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1287322"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1299655",
+    "title": "Blue Moon",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1299655",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/dVU7SNc6dgStTVdtbPLQncWxsyZ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1299655"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1500536",
+    "title": "Dead to Rights",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1500536",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/rx9xTly73NssFHPg9gKrX9tJdDI.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1500536"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-975335",
+    "title": "Magellan",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/975335",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/pmFeUueU7BWLVnHrYI1FD7VnxtH.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/975335"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1290424",
+    "title": "The Great Arch",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1290424",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/5D6E7CuuFyXOmqlGVlUKP6tpNP3.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1290424"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1037264",
+    "title": "The Disappearance of Josef Mengele",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1037264",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/eFS1Aj5VjK6p7aVuqTcJIv4HSyU.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1037264"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1195631",
+    "title": "William Tell",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1195631",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/8SdaetXSTPyQVDb5pTEPRLBSx15.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1195631"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1142913",
+    "title": "The Baby in the Basket",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1142913",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/4QovS6ZvEsigboCJVIqT9X5pexF.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1142913"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1078605",
+    "title": "Weapons",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1078605",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1078605"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-574475",
+    "title": "Final Destination Bloodlines",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/574475",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/574475"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1100988",
+    "title": "28 Years Later",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1100988",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/n5FygjEppOvac6yEaowi26nTyw3.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1100988"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1038392",
+    "title": "The Conjuring: Last Rites",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1038392",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/umvkcIb0XAk486TEmx1V5aVzhbm.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1038392"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1408208",
+    "title": "Exit 8",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1408208",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/nQXYTvm6AY4WmtcPskroqC7Skh.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1408208"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1393056",
+    "title": "Mickey's Slayhouse",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1393056",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/l8cGo9f7XLACY5dtSDg89hnq6gp.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1393056"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1084199",
+    "title": "Companion",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1084199",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1084199"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1228246",
+    "title": "Five Nights at Freddy's 2",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1228246",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1228246"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1400499",
+    "title": "KINKI",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1400499",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/z8x77fhtP5kw1t7qsKmJ8WpHeKy.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1400499"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-604079",
+    "title": "The Long Walk",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/604079",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/604079"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1196067",
+    "title": "Worldbreaker",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1196067",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/ahj1JU8r0uJv7QII5Uj7tKzbEsC.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1196067"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1151031",
+    "title": "Bring Her Back",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1151031",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1151031"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1243341",
+    "title": "Z-O-M-B-I-E-S 4: Dawn of the Vampires",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1243341",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/6rGsqBxI4r1YkS9FuraovWi465w.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1243341"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-797109",
+    "title": "Secret: Untold Melody",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/797109",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/6mxPhkPdmm2CaxI060QS7eCz0a2.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/797109"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1322752",
+    "title": "COLORFUL STAGE! The Movie: A Miku Who Can't Sing",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1322752",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/uiQ6wj8TPYHueuIJRsNlPruzogT.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1322752"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1566269",
+    "title": "The First Snow of Fraggle Rock",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1566269",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/xyxAOTToALUkeFS9x5V6MOv8YWr.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1566269"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1241634",
+    "title": "Saiyaara",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1241634",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/hQBIsi3ZfBYEayMc3GhcEmJVkss.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1241634"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1371185",
+    "title": "Song Sung Blue",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1371185",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/xStmzLprgzqjzfvpBI7uTbcRpwQ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1371185"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1122099",
+    "title": "The Ballad of Wallis Island",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1122099",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/haS6bnqDqZoi5sYcCPJWaj2yMbB.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1122099"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-891584",
+    "title": "The History of Sound",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/891584",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/55of0Vy7m32hSRZKsCyyDjZn4AC.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/891584"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1230368",
+    "title": "Springsteen: Deliver Me from Nowhere",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1230368",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1230368"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1425122",
+    "title": "A Very Jonas Christmas Movie",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1425122",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/kGLgaDrYWmTAdRFzGP5pBquRnhO.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1425122"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1237082",
+    "title": "31 Minutes: One Hot Christmas",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1237082",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/s5Y0qRZGgdbNsxshhuIwXyslUYc.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1237082"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1214684",
+    "title": "Kiss of the Spider Woman",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1214684",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/c8zDeDq0Uatjly6Fh4ycmWuoLYy.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1214684"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1484453",
+    "title": "Snoopy Presents: A Summer Musical",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1484453",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/kK1ugxST3tCJZjZEO37sLb4Yot5.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1484453"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1262815",
+    "title": "The Choral",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1262815",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/yQtms7CSM0CE0W6dYbLLAATb5rL.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1262815"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1299799",
+    "title": "Chopin, a Sonata in Paris",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1299799",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/gi3WvAR233g0CMgakiszl4h5oiG.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1299799"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1496735",
+    "title": "Genshin Impact: Star Odyssey",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1496735",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/oTCflNYIEncwO1i1qhZ3d71g5t6.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1496735"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1103857",
+    "title": "Juliet & Romeo",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1103857",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/4spOdjLgRAbIYO7mu22DQ2iInz7.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1103857"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1368166",
+    "title": "The Housemaid",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1368166",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1368166"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1233575",
+    "title": "Black Bag",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1233575",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/hHPovtU4b96LHcoeEwRkGHI5btw.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1233575"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1232546",
+    "title": "Until Dawn",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1232546",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/bLY5yN4MKVynZ2HMZWElTOGBgBe.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1232546"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1404791",
+    "title": "Dollhouse",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1404791",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/vUs4OPpvu4Is7wIGaXkseNJHhEA.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1404791"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1224993",
+    "title": "Dark Nuns",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1224993",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/2Abt2GgscAGtGAXTrhH44qPhugI.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1224993"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-974573",
+    "title": "Another Simple Favor",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/974573",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/zboCGZ4aIqPMd7VFI4HWnmc7KYJ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/974573"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1083433",
+    "title": "I Know What You Did Last Summer",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1083433",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/8FP2ObEGIiQYQCf83gL4ZVzwZF8.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1083433"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-744653",
+    "title": "The Thursday Murder Club",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/744653",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/jbnazCHr8S2l2glyvjPTpa4NbEw.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/744653"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1470424",
+    "title": "Virtual Assistant",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1470424",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/x3J1bIGoN8ES7aWeGHlLTgIg5C3.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1470424"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-986097",
+    "title": "HIM",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/986097",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/hFVa74eIxVf0xiBNhmMJtAW2n9e.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/986097"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1249213",
+    "title": "Drop",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1249213",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/hSQPSW8aLjsMBfwqGjgJ6HozTkp.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1249213"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1439112",
+    "title": "Muzzle: City of Wolves",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1439112",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1439112"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-950396",
+    "title": "The Gorge",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/950396",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/950396"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1422227",
+    "title": "Aşk Sadece Bir An",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1422227",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/rwiMs8Lr6FAjvXEiQzTJyxLqZee.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1422227"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-957119",
+    "title": "Sidelined: The QB and Me",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/957119",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/mSL6truNrWP1Bn9ng1rN0SkMI4f.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/957119"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1327862",
+    "title": "Regretting You",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1327862",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/z4gVnxTaks3anTycwKjDmvQSuWt.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1327862"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1564004",
+    "title": "Rodeo Christmas Romance",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1564004",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/mP9JtC1d3gySB7Lqw8lKUYOTNg1.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1564004"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1355666",
+    "title": "Love Untangled",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1355666",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/e7jStO2xfBUAUK37LbINHd1qtgy.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1355666"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1136867",
+    "title": "Materialists",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1136867",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1136867"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1429520",
+    "title": "Sidelined 2: Intercepted",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1429520",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1429520"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1379963",
+    "title": "Tell Me Softly",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1379963",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/6Z37lW0JfLdeFcgH9yaTyg6B9A6.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1379963"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-798645",
+    "title": "The Running Man",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/798645",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/798645"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1149167",
+    "title": "High Rollers",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1149167",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/hHowAaChDjwueySmwVbsjHmpWa.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1149167"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1589799",
+    "title": "SpongeBob and Patrick's Timeline Twist-Up",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1589799",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/6kBZ2CTolHtaB9AyIkZl1lAg9j3.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1589799"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1574367",
+    "title": "Christmas at Fields Ranch",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1574367",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/6xWsEcDqfFfcOyOcUk0wm0RlV7G.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1574367"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1417059",
+    "title": "Mountainhead",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1417059",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/jZKK5mFKWbquxhAGMkRJtNYwk0I.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1417059"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1541413",
+    "title": "A Christmas Murder Mystery",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1541413",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/rotc7GM3PMdvHs1a9yQVtvDb55W.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1541413"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1529419",
+    "title": "Kumail Nanjiani: Night Thoughts",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1529419",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/qOvbKZHzBFQrmjmK9D0Lg7sz8co.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1529419"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1545999",
+    "title": "Christmas at the Catnip Café",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1545999",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/4OdcIegFxwFIflJ0N0hXUXNtV93.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1545999"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1537084",
+    "title": "Three Wisest Men",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1537084",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/yTMNjavrgr6BrYSb3BN7gRXPBcV.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1537084"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1546001",
+    "title": "The More the Merrier",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1546001",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/3wiTWMVT6RpnMkWfW5tW39Ou8ba.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1546001"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1545997",
+    "title": "Single on the 25th",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1545997",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/5tYw1fstvTdpH6wInqY23oTIiiI.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1545997"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1417677",
+    "title": "Bill Burr: Drop Dead Years",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1417677",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/vBdVi94tI9AH3oNgNtVuHc6vYu7.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1417677"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1537081",
+    "title": "Christmas Above the Clouds",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1537081",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/sMHF7beWXqWzXqtclqrz6vd95xV.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1537081"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1574411",
+    "title": "Terry McMillan Presents: Preach, Pray, Love",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1574411",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/wXlFNXta2iUH2xhweA6DQMbmxUA.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1574411"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1174023",
+    "title": "Red Stars Upon the Field",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1174023",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/d9biUvRR2XgYFeIhBR8TeDYFHTU.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1174023"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1554297",
+    "title": "Have We Met This Christmas?",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1554297",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/8zmJbO0UmWWnM2KL5QAorRskYvi.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1554297"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1241436",
+    "title": "Warfare",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1241436",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/l39TlELomwysfsr37vrvCV6rmaQ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1241436"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1223601",
+    "title": "Sisu: Road to Revenge",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1223601",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/roCMOuMQ55Z2TxVx1vZZTevlo0n.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1223601"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1155281",
+    "title": "Creation of the Gods II: Demon Force",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1155281",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/dfUCs5HNtGu4fofh83uiE2Qcy3v.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1155281"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1252037",
+    "title": "The Tank",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1252037",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1252037"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1257009",
+    "title": "Primitive War",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1257009",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/noujgznyJIaurEinZhcSVzTmkLo.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1257009"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1009640",
+    "title": "Valiant One",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1009640",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/sT8Z14RDCAd6szzxzWFAU4xcMwg.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1009640"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1432596",
+    "title": "Palestine 36",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1432596",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/hHWSjo6DYDAEUDfA7JXCS4nhjmT.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1432596"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1015154",
+    "title": "Fireflies at El Mozote",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1015154",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/vAMPpEvaW9EmRwFmzFMaM8wS3KV.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1015154"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1254135",
+    "title": "13 Days, 13 Nights",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1254135",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/orcdyqJZhbr731iN7yq7TK5zluc.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1254135"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1305653",
+    "title": "Rescue at Dongji",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1305653",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/nPo4VVucCQ8OLTzi4uehKB5kCTf.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1305653"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1244531",
+    "title": "Beast of War",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1244531",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/jYEiIKFaWg81O01nOuuX1tOHeTK.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1244531"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1419826",
+    "title": "The World Will Tremble",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1419826",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/31CKSlZdsvdY8bysV5WeR2YvTim.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1419826"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1280330",
+    "title": "Operation Hadal",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1280330",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/kjuyOb6HEKX7vju0J8jDRW2Rowu.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1280330"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1143407",
+    "title": "Sky Force",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1143407",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/f1KLUpaW7rbXhUm5SxG1lpPFFCJ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1143407"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1272586",
+    "title": "Battle of Oslo",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1272586",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/4JgvnUEggEMx6lEUu0eOq6XfMP7.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1272586"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1000438",
+    "title": "Emergency",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1000438",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/yp5eg70g6LaZoBiApOv9oerzvvX.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1000438"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1481600",
+    "title": "Operation Kabul",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1481600",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/3cnmJVJA3CGVBYdSOrniTuPeuCM.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1481600"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1211726",
+    "title": "Red Silk",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1211726",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/uqtXRz7sN9hkUSLRveNNVdroQQG.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1211726"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-648878",
+    "title": "Eddington",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/648878",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/648878"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1205177",
+    "title": "Cottonmouth",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1205177",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/dEnE2xYn3jZuqFEG8JU1TRIzjea.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1205177"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1443894",
+    "title": "Forgive Us All",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1443894",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/bT7sMDsvWNeIGgZ6ZsisNdBcHdq.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1443894"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-934456",
+    "title": "Americana",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/934456",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/83Gis9pOKCvAdaKXCNChey4IZyL.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/934456"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1200320",
+    "title": "Killing Faith",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1200320",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/lzqqjVZsQu8NZOeAYZffP5FKnRy.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1200320"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1293162",
+    "title": "Thieves Highway",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1293162",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/78B66xBCgmnh88d10B85uFjC88V.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1293162"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1293286",
+    "title": "Gunslingers",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1293286",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/O7REXWPANWXvX2jhQydHjAq2DV.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1293286"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1195518",
+    "title": "The Unholy Trinity",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1195518",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/gXYYIX5VesrDtR1iYJfvUnJBPLB.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1195518"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1126915",
+    "title": "Tornado",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1126915",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/iow3KuKBJN2Hfqi7i7Tq3pZUbAa.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1126915"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-883954",
+    "title": "Broke",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/883954",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/ooCDeGxZ5to9CRKxkBEAIWtoRA4.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/883954"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1414048",
+    "title": "Day of Reckoning",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1414048",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/cVSjSQryFUERYSdOmdgJ2m0eBte.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1414048"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1429739",
+    "title": "Gold Rush Gang",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1429739",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/7j6jZNhCTnsZy5QItpruDwyBWoo.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1429739"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1495629",
+    "title": "Dead Souls",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1495629",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/j6LwYijBpK23UQzRqFMrlLPeFac.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1495629"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1260794",
+    "title": "Resurrection Road",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1260794",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/3FSlrUUzGsQDESz935ryjo769sK.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1260794"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1398911",
+    "title": "East of Wall",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1398911",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/1OsdhvbLNLUJEi9vqQCyhAXsaRX.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1398911"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1310959",
+    "title": "Where the Wind Blows",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1310959",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/bDX0VJAIl6YuQdFuwdSfjIel6YZ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1310959"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1233066",
+    "title": "Manitou's Canoe",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1233066",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/8d5Qnz2LGbu0kr7RCwdX8E55mYT.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1233066"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1127992",
+    "title": "Long Shadows",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1127992",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/29PhO1cNQGhX0N6Dt1Z7eh8Tbuv.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1127992"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1078822",
+    "title": "Heads or Tails?",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1078822",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/Tv6fscEsGNVk9op70Mm5ctIqfl.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1078822"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1493253",
+    "title": "The Lord of All Future Space & Time",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2025,
+    "url": "https://nxsha.space/watch/movie/1493253",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/s7bSoWmxma89SQKUnJBVsdTDYgf.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1493253"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-866398",
+    "title": "The Beekeeper",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/866398",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/866398"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-823464",
+    "title": "Godzilla x Kong: The New Empire",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/823464",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/823464"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-786892",
+    "title": "Furiosa: A Mad Max Saga",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/786892",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/786892"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-939243",
+    "title": "Sonic the Hedgehog 3",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/939243",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/939243"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-519182",
+    "title": "Despicable Me 4",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/519182",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/519182"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-845781",
+    "title": "Red One",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/845781",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/845781"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-558449",
+    "title": "Gladiator II",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/558449",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/558449"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-912649",
+    "title": "Venom: The Last Dance",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/912649",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/912649"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-539972",
+    "title": "Kraven the Hunter",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/539972",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/539972"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1118031",
+    "title": "Apocalypse Z: The Beginning of the End",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1118031",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1118031"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-573435",
+    "title": "Bad Boys: Ride or Die",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/573435",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/oGythE98MYleE6mZlGs5oBGkux1.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/573435"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1011985",
+    "title": "Kung Fu Panda 4",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1011985",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1011985"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-359410",
+    "title": "Road House",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/359410",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/359410"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-653346",
+    "title": "Kingdom of the Planet of the Apes",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/653346",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/653346"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1411773",
+    "title": "The Last Stand of Ellen Cole",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1411773",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/oq1pGVQ2t3Cy4v7sA4LRhNjtZuJ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1411773"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-799583",
+    "title": "The Ministry of Ungentlemanly Warfare",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/799583",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/8aF0iAKH9MJMYAZdi0Slg77RYa2.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/799583"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-929590",
+    "title": "Civil War",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/929590",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/929590"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1084736",
+    "title": "The Count of Monte Cristo",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1084736",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/sAT1P3FGhtJ68anUyJScnMu8t1l.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1084736"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-746036",
+    "title": "The Fall Guy",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/746036",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/746036"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1184918",
+    "title": "The Wild Robot",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1184918",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1184918"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1241982",
+    "title": "Moana 2",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1241982",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1241982"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-823219",
+    "title": "Flow",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/823219",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/z2sG41PxfL1hnL1mHbxzSREUtOf.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/823219"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-762509",
+    "title": "Mufasa: The Lion King",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/762509",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/762509"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-698687",
+    "title": "Transformers One",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/698687",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/698687"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-748783",
+    "title": "The Garfield Movie",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/748783",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/748783"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1033462",
+    "title": "Bureau 749",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1033462",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/flykCMw22y6yv8vKnBjmsW3pneo.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1033462"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-967847",
+    "title": "Ghostbusters: Frozen Empire",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/967847",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/967847"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1244492",
+    "title": "Look Back",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1244492",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/4f2EcNkp1Mvp9wE5w7HKxcmACWg.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1244492"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1012201",
+    "title": "HAIKYU!! The Dumpster Battle",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1012201",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/ntRU0OA4etGGiMMmH1Yw0bnaMdW.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1012201"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1147416",
+    "title": "Miraculous World: London, at the Edge of Time",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1147416",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/6AtoMpHvs9pxd30KsyK8QmJ9W9M.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1147416"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-839033",
+    "title": "The Lord of the Rings: The War of the Rohirrim",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/839033",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/23WCoDo6wzBfzbX7BGTNwVUqZfi.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/839033"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-929204",
+    "title": "Wallace & Gromit: Vengeance Most Fowl",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/929204",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/jUWFSBxTOiCinPdTOh3IDUXVemZ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/929204"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1333100",
+    "title": "Attack on Titan: THE LAST ATTACK",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1333100",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/wgwldDDlTDDMrluOMkpSA8lyKjv.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1333100"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-989730",
+    "title": "Mononoke the Movie: The Phantom in the Rain",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/989730",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/s0apanRsR8mIp9jU9WJt9dgdt7Y.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/989730"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1014505",
+    "title": "OVERLORD: The Sacred Kingdom",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1014505",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/jEvytxNa5mfW7VAUmDWsZtIdATc.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1014505"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-645757",
+    "title": "That Christmas",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/645757",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/uR3uhztTAxGGK7Co0yyxVy4Gc7H.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/645757"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1147400",
+    "title": "Miraculous World: Paris, Tales of Shadybug and Claw Noir",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1147400",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/7Md3nuV0ZprBTnkdR3OrUCEsrSP.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1147400"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1064486",
+    "title": "Memoir of a Snail",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1064486",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/woaN8CbloH0akyX0E72ayxlJAB4.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1064486"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1196668",
+    "title": "Blue Sky Jo",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1196668",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/2tTGfliKBDnJk5G1fiUzZWcnwOZ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1196668"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1064213",
+    "title": "Anora",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1064213",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1064213"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-843527",
+    "title": "The Idea of You",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/843527",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/Y5P4Q3q8nrruZ9aD3wXeJS2Plg.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/843527"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1231623",
+    "title": "A Christmas Castle Proposal: A Royal in Paradise II",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1231623",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/f1vhK5Lz3N7OIETraPjnTqZtZkN.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1231623"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-917496",
+    "title": "Beetlejuice Beetlejuice",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/917496",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/917496"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-848538",
+    "title": "Argylle",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/848538",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/siduVKgOnABO4WH4lOwPQwaGwJp.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/848538"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-639720",
+    "title": "IF",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/639720",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/639720"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1226578",
+    "title": "Longlegs",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1226578",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/1EwNyiiNFd863H4e8nWEzutnZD7.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1226578"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-889737",
+    "title": "Joker: Folie à Deux",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/889737",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/889737"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1032823",
+    "title": "Trap",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1032823",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/jwoaKYVqPgYemFpaANL941EF94R.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1032823"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-646097",
+    "title": "Rebel Ridge",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/646097",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/646097"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1128650",
+    "title": "The Prosecutor",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1128650",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/n3ZnFqp988MWfIkT8OHofEJfjlt.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1128650"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-923667",
+    "title": "Twilight of the Warriors: Walled In",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/923667",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/h0tunBO4tMjvKVVG7fXqHgwOr5C.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/923667"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-974635",
+    "title": "Hit Man",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/974635",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/974635"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1029281",
+    "title": "Strange Darling",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1029281",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1029281"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-877817",
+    "title": "Wolfs",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/877817",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/vOX1Zng472PC2KnS0B9nRfM8aaZ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/877817"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-948549",
+    "title": "Love Lies Bleeding",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/948549",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/xImj8RLe39YK0lyVu9kXv7ApN8p.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/948549"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1008409",
+    "title": "The Bikeriders",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1008409",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/ApMuukdDAOR2rgaFDZIcjfigi64.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1008409"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1147710",
+    "title": "Hijack 1971",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1147710",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/68jNkFi61MQjrJEqj2up5wZ4w5R.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1147710"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-280180",
+    "title": "Beverly Hills Cop: Axel F",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/280180",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/yE0iZBxkL8aKYNkkeHoUzx5M88c.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/280180"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1300945",
+    "title": "A Place Called Silence",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1300945",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/uKThqY2oRYSHOPxYryTp2550fuZ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1300945"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1209217",
+    "title": "Detective Conan: The Million-Dollar Pentagram",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1209217",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/ctboIRYQHYJMge6M6fgcwrhREsj.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1209217"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-955916",
+    "title": "Lift",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/955916",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/h7wJI6mctrDJ9wMbFfgrBUTn1LT.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/955916"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1160018",
+    "title": "KILL",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1160018",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/m2zXTuNPkywdYLyWlVyJZW2QOJH.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1160018"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1291143",
+    "title": "How to Rob a Bank",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1291143",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/vhBQOgig0bXCXIgHHyO8ipG47J9.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1291143"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1128559",
+    "title": "Super/Man: The Christopher Reeve Story",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1128559",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/73WchlI0Hj4HQd0T2KOztKquOek.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1128559"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1232493",
+    "title": "No Other Land",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1232493",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/bVlXZnI24U4QPlGvggUbeShMhz8.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1232493"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1094473",
+    "title": "Bambi: A Tale of Life in the Woods",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1094473",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/vWNVHtwOhcoOEUSrY1iHRGbgH8O.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1094473"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-881680",
+    "title": "Frank Miller: American Genius",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/881680",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/l1gIk9MuetnajeHIKzX0IfXlsWc.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/881680"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1236419",
+    "title": "Piece by Piece",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1236419",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/fmOPcP8WRvm8cok4Hz3REwD7rlJ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1236419"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1385098",
+    "title": "Orlando",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1385098",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/q19qaGEc678Z1mspiULizlRo7XZ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1385098"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-879805",
+    "title": "I Am: Celine Dion",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/879805",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/v0zvMBdwzgSAj9xCufxDuq1WoJO.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/879805"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1224953",
+    "title": "A Hero's Journey: The Making of Percy Jackson and the Olympians",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1224953",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/mHbiXDWetNGTeWGJRXwSRJBDVqM.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1224953"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1127632",
+    "title": "Ernest Cole: Lost and Found",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1127632",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/nEqDYZtw9GlzmwvmflY6b2mfwd7.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1127632"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1226841",
+    "title": "The Greatest Night in Pop",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1226841",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/jDz4wFujk94tQP9Sx6EMKDULvkn.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1226841"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1251636",
+    "title": "The Bloody Hundredth",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1251636",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/5GnpAw5BaQBNqYd4wE1IptYEVKd.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1251636"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1292585",
+    "title": "Hayao Miyazaki and the Heron",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1292585",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/Bw7jGthm637GqlRq5rT04GJrKL.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1292585"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1273196",
+    "title": "Jim Henson Idea Man",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1273196",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/w1IYhFVW2XyKfkIyZ65jZ2Uyn6Y.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1273196"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1167027",
+    "title": "The Remarkable Life of Ibelin",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1167027",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/73vRLcc0syVTMXmXyztUWaPJiK3.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1167027"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1217343",
+    "title": "This Is Me…Now",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1217343",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/nEMSjYpT0B7uxNwu1kEU8fTycs4.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1217343"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1076708",
+    "title": "Music by John Williams",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1076708",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/dIZ3SzuT3YuAWX1fjdxDevbwQBX.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1076708"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1360677",
+    "title": "The Devil's Climb",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1360677",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/qjecaspP70FPUL8G6TxzKYplDw3.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1360677"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1036573",
+    "title": "The Last of the Sea Women",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1036573",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/4a75Q8ebNNqAQ8Mm4n863Gl9dOS.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1036573"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1168709",
+    "title": "Einstein and the Bomb",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1168709",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/hWRKHXKfu2WJGICdVpKZ0jEKsbp.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1168709"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-402431",
+    "title": "Wicked",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/402431",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/402431"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-937287",
+    "title": "Challengers",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/937287",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/937287"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1232449",
+    "title": "Young Hearts",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1232449",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/iGCtYxfuvXfy0BD5m6p7vKuPOxS.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1232449"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1156593",
+    "title": "Your Fault",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1156593",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1156593"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1252309",
+    "title": "Tell Me What You Want",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1252309",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/yZXYCiZQPB7Ui6D5206W1zDKv8P.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1252309"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-974576",
+    "title": "Conclave",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/974576",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/974576"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-661539",
+    "title": "A Complete Unknown",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/661539",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/llWl3GtNoXosbvYboelmoT459NM.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/661539"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-549509",
+    "title": "The Brutalist",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/549509",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/549509"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1079091",
+    "title": "It Ends with Us",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1079091",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/AjV6jFJ2YFIluYo4GQf13AA1tqu.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1079091"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-516729",
+    "title": "Paddington in Peru",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/516729",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/1ffZAucqfvQu36x1C49XfOdjuOG.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/516729"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-974262",
+    "title": "Descendants: The Rise of Red",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/974262",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/8fYluTtB3b3HKO7KQa5tzrvGaps.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/974262"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1278101",
+    "title": "Big World",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1278101",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/rLj287mA1tp4hZmd69umb1rOZu8.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1278101"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-826510",
+    "title": "Harold and the Purple Crayon",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/826510",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/qtW6bWUEqfPLaD6KnetIlSG4adf.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/826510"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1139829",
+    "title": "Orion and the Dark",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1139829",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/N2ddXhBX5kqwA9flbm2yqFtX6b.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1139829"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-426063",
+    "title": "Nosferatu",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/426063",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/d0B8xDdqBZlzlPEzES8lu5LlNQn.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/426063"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-634492",
+    "title": "Madame Web",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/634492",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/634492"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-763215",
+    "title": "Damsel",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/763215",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/AgHbB9DCE9aE57zkHjSmseszh6e.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/763215"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1086747",
+    "title": "The Watchers",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1086747",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/vZVEUPychdvZLrTNwWErr9xZFmu.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1086747"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-957452",
+    "title": "The Crow",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/957452",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/g8TbOXrNMuqq7AaKqdvqS2oG4ob.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/957452"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-592831",
+    "title": "Megalopolis",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/592831",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/doVWgLdNyK36nEyyZgVsEWFCO1e.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/592831"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1000837",
+    "title": "I'm Still Here",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1000837",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1000837"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-975511",
+    "title": "The Return",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/975511",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/xSj6EbdwHs3MFT2tRj9L3I7TE5j.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/975511"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-832964",
+    "title": "Lee",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/832964",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/zdNWyuim8gpJHe1LtKaDrs43dWz.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/832964"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1219576",
+    "title": "Goebbels and the Führer",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1219576",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/iK5rrNUSNUMOWyPUQAHo6WsjOho.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1219576"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-802219",
+    "title": "Bob Marley: One Love",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/802219",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/1lQftpEARVVB9op4TaYiIbactzG.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/802219"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1061699",
+    "title": "The Six Triple Eight",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1061699",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/7tvAnzZj9e9AjdoHaN9jshm2Cjw.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1061699"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-774531",
+    "title": "Young Woman and the Sea",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/774531",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/bZlecCuBVvKuarNGvchBwaOsQ3c.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/774531"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1102493",
+    "title": "Small Things Like These",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1102493",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/rdcO38cbWFg002nXg5QYtk7Tz4L.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1102493"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1075676",
+    "title": "Uprising",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1075676",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/hg9OeaCRSpazrfqYyEFr6BDaZW8.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1075676"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1211472",
+    "title": "September 5",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1211472",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1211472"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1028196",
+    "title": "Nickel Boys",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1028196",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1028196"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-819277",
+    "title": "Midas Man",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/819277",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/4nAfF0Szcb72eRn9WwRFsdvZu5q.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/819277"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1232827",
+    "title": "The Girl with the Needle",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1232827",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1232827"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-844185",
+    "title": "Unfrosted",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/844185",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/zxcpbkiyv81u1frI7b0f6qaYufE.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/844185"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1101448",
+    "title": "Unstoppable",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1101448",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/xanYKxuFkDPrMngvm1NSHVGOEjS.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1101448"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1038263",
+    "title": "Maria",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1038263",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/3oQRG0bwPUqE4N4n8z2kAzr7e40.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1038263"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-998846",
+    "title": "Back to Black",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/998846",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/xHQEeUT3Ac4fTY72UeNrI75xLtE.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/998846"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-610251",
+    "title": "Harbin",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/610251",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/oNA9eRaFCLlFKRZlzYEldPZlFpg.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/610251"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-896151",
+    "title": "Blitz",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/896151",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/e9tyjbF2rugENtBolTtEhHOXgzD.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/896151"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-848439",
+    "title": "Firebrand",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/848439",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/kXAc1LaxL64udWr9SOAHQwOBEG0.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/848439"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-933260",
+    "title": "The Substance",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/933260",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/933260"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1034541",
+    "title": "Terrifier 3",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1034541",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/ju10W5gl3PPK3b7TjEmVOZap51I.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1034541"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-945961",
+    "title": "Alien: Romulus",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/945961",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/945961"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1064028",
+    "title": "Subservience",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1064028",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1064028"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-762441",
+    "title": "A Quiet Place: Day One",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/762441",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/hU42CRk14JuPEdqZG3AWmagiPAP.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/762441"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-838209",
+    "title": "Exhuma",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/838209",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/pQYHouPsDw32FhDLr7E3jmw0WTk.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/838209"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1100782",
+    "title": "Smile 2",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1100782",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1100782"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1138194",
+    "title": "Heretic",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1138194",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/fr96XzlzsONrQrGfdLMiwtQjott.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1138194"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1023922",
+    "title": "MaXXXine",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1023922",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1023922"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1229906",
+    "title": "Family",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1229906",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/cTXGUz1Mle56A6vAK2GAf1j8Wtn.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1229906"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-938614",
+    "title": "Late Night with the Devil",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/938614",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/mu8LRWT9GHkfiyHm7kgxT6YNvMW.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/938614"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1111873",
+    "title": "Abigail",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1111873",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1111873"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1041613",
+    "title": "Immaculate",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1041613",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/zyopv7D5j7cfswG0NYiA14qAdPC.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1041613"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1056444",
+    "title": "The Colors Within",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1056444",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/gOWDvzglcQZOQPqGfVF6hfOhMNT.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1056444"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-799766",
+    "title": "Better Man",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/799766",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/fbGCmMp0HlYnAPv28GOENPShezM.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/799766"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1148677",
+    "title": "Doraemon: Nobita's Earth Symphony",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1148677",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/1W5Kg4K27U3dx9Kxb8DaE6WFLHI.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1148677"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1371727",
+    "title": "Sing: Thriller",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1371727",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/g0PZr8TYqIhSWq1EPmTisIqfr0K.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1371727"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1235431",
+    "title": "Oshi no Ko -The Final Act-",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1235431",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/29BjXB8dPvLvJJgZFetd8PvwYiw.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1235431"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1814104",
+    "title": "うたの☆プリンスさまっ♪ ALL STAR STAGE - MUSIC UNIVERSE -",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1814104",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/qIHKV5bVXuOxLpmFsRv3ygGPCcR.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1814104"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1180629",
+    "title": "Kneecap",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1180629",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/gEbQi5QWUg3CQ9R5dwvPBvbOX17.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1180629"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1115009",
+    "title": "Unsung Hero",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1115009",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/mtkAdP8l8Hx9bIF2JChLdpy3VQL.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1115009"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-881366",
+    "title": "The End",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/881366",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/kYMLpw3DQjQjp2jzNrg3KvNFIr6.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/881366"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1192209",
+    "title": "Noah's Ark",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1192209",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/x6wH1kowr6uNFJ12CVKsRHzC0cm.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1192209"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1216623",
+    "title": "Trapezium",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1216623",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/eZCmOxnnwrQjEU5s0CGZHUOqkLV.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1216623"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1201387",
+    "title": "BOCCHI THE ROCK! Recap Part 2",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1201387",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/bGcRWQfAxMffvkD8Pj3cXJ61W9l.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1201387"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-840705",
+    "title": "Blink Twice",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/840705",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/lZGOK0I2DJSRlEPNOAFTSNxSjDD.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/840705"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-936245",
+    "title": "Hidden Face",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/936245",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/8H6pQ0g9MeWrJ9kZHREVkwLN8Pv.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/936245"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1216191",
+    "title": "Oddity",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1216191",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/3Z9c1tbUhP0QruRjczPHnbx3U2D.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1216191"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-863873",
+    "title": "Caddo Lake",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/863873",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/r1h1YltM7bwzlWE330izIgQSwkj.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/863873"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1052280",
+    "title": "It's What's Inside",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1052280",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/6jzwaLoDurD6Jn2ILb42nFcn3xq.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1052280"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1125311",
+    "title": "Imaginary",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1125311",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/bPCxkrCEGJmaYfvdXj0x3mCLbGr.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1125311"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-978592",
+    "title": "Sleeping Dogs",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/978592",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/5DwQhh1HvTo7edaOeMX49NUyZqy.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/978592"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1118224",
+    "title": "Maharaja",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1118224",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/s0m4TM1XRAftQStgKpw024RvkJo.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1118224"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-869291",
+    "title": "Cuckoo",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/869291",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/4bGP5cnSZbfBJfIidZNSEIKnav7.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/869291"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1379587",
+    "title": "Utopia",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1379587",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/yef0tY1Nw3BX8PJTfBLieqHj5Hw.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1379587"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-974453",
+    "title": "Absolution",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/974453",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/urQRTWxekNi6OS7RP5vWblEssQj.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/974453"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1097549",
+    "title": "Babygirl",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1097549",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/ilwO6elz3mLV9CToT7C8pjVeKX0.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1097549"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1100099",
+    "title": "We Live in Time",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1100099",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/oeDNBgnlGF6rnyX1P1K8Vl2f3lW.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1100099"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-956842",
+    "title": "Fly Me to the Moon",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/956842",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/gjk8YdXpItoC1in53FCrZMFIuBx.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/956842"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1291559",
+    "title": "Drawing Closer",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1291559",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/173FD4a0rpSF30z4CoWx6qdx8Ry.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1291559"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-914206",
+    "title": "The Beast",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/914206",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/96Jb7yjDkzluBqQZ21j54CJdYeM.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/914206"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1139566",
+    "title": "Through My Window 3: Looking at You",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1139566",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/gwpTgtwVAwmvivBN8rAQABpx9Am.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1139566"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1014590",
+    "title": "Upgraded",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1014590",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/uhOXS17gRpTwA85WsZLlYFK3rz0.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1014590"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1395724",
+    "title": "A Fool's Love",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1395724",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/8Z1W34xQPDf4eIsFH40F9LDRlPf.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1395724"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-365177",
+    "title": "Borderlands",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/365177",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/4JGoZu1ZKFpMJTWAP35PCfkMgu8.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/365177"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1035048",
+    "title": "Elevation",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1035048",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/3ABhnV3kAl8TILHJpSwAq6kdIbg.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1035048"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-934632",
+    "title": "Rebel Moon - Part Two: The Scargiver",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/934632",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/95gnJZIk2rEkMO0Ch46x5CVjnms.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/934632"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1196470",
+    "title": "Survive",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1196470",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/7fR3KxswtY8OHHZuOUB9td58CRX.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1196470"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1062215",
+    "title": "Afraid",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1062215",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/gUREuXCnJLVHsvKXDH9fgIcfM6e.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1062215"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1276610",
+    "title": "Locked in My House",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1276610",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/7Sg6tiDTibo08F0fcwj6csn9OzE.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1276610"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1116490",
+    "title": "Cash Out",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1116490",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/v3youHDLigrtIis1NqTjlY8Sk38.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1116490"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1253971",
+    "title": "Cunk on Life",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1253971",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/zZx5a595bYuNxd8TdoRflxATFML.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1253971"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1290938",
+    "title": "South Park: The End of Obesity",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1290938",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/zxM1AIKBP83plf2buLR0cbGfvl2.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1290938"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-929563",
+    "title": "Big City Greens the Movie: Spacecation",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/929563",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/kU84ws397tokaTEWgHxw2bPDAMY.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/929563"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1354627",
+    "title": "SpongeBob SquarePants: Kreepaway Kamp",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1354627",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/aUOCmqkbCX94znDJNtSy1402Sie.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1354627"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1373873",
+    "title": "Husband Father Killer: The Alyssa Pladl Story",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1373873",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/g4egqiCIKR1jQTr9zl0uN0smtpN.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1373873"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1341123",
+    "title": "Christmas Under the Northern Lights",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1341123",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/5GGWK9BTu3rMv4IxucJsvrELAXa.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1341123"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1319443",
+    "title": "Holiday Touchdown: A Chiefs Love Story",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1319443",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/8LiR0eSpagTqq4ZSG2p4MnqJZNC.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1319443"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1079346",
+    "title": "5lbs of Pressure",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1079346",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/toEJOPYvM7Na0XwM8exg8aHq553.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1079346"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1393860",
+    "title": "The Wonderful World of Disney: Holiday Spectacular",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1393860",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/v0BjufVgslHI4NAOsypmrtFa8J9.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1393860"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1325888",
+    "title": "Santa Tell Me",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1325888",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/zKvCa16DTB1gJJ9hdCpSHyWu9Ue.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1325888"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1377267",
+    "title": "A Carpenter Christmas Romance",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1377267",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/g72tPkWetP9qnZT0kJYOQJ6yWOm.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1377267"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1293279",
+    "title": "Three Wiser Men and a Boy",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1293279",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/dis4s7NxEFigKawVNgQvkd48c1x.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1293279"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1359867",
+    "title": "The Christmas Charade",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1359867",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/1jgFIqG7haKpxXnckzTw9pzlG4v.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1359867"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1376359",
+    "title": "Your Friend, Nate Bargatze",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1376359",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/p0NK3bXt5AC6cL3R57DdWLFMGYH.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1376359"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1388232",
+    "title": "Jack in Time for Christmas",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1388232",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/ezLjq19a1LAWfX5rTMqA2MHEe0.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1388232"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1361248",
+    "title": "Christmas Under the Lights",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1361248",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/cPlXjEJrqLxRU3GZyBwKgAFG8k5.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1361248"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1359717",
+    "title": "'Twas the Date Before Christmas",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1359717",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/jxfXnIvMsNJrBZFi9fX9ra8lkdo.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1359717"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1271314",
+    "title": "GTO Revival",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1271314",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/a0c3yvDwUrhVt0kdnIpbsQaIxbx.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1271314"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-718821",
+    "title": "Twisters",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/718821",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/718821"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1005331",
+    "title": "Carry-On",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1005331",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1005331"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-969492",
+    "title": "Land of Bad",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/969492",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/969492"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1043905",
+    "title": "Dirty Angels",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1043905",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1043905"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-927342",
+    "title": "Amaran",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/927342",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/kcspKUpofalIuPgAndZOMJz0hwg.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/927342"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1244361",
+    "title": "Operation Undead",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1244361",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/rs10lMBnJFnJX1Y7MYpyB8JiNAF.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1244361"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1298727",
+    "title": "The Volunteers: The Battle of Life and Death",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1298727",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/A8VDm8Ns0y1NFZZw9GqRhJcMtjq.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1298727"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1231828",
+    "title": "The Witch. Revenge",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1231828",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/4Y9BXbNJ5vgIXhKpGpJXxTygngD.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1231828"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1026880",
+    "title": "Irena's Vow",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1026880",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/lN6iCgTgpNlylelUctrA29wJx4W.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1026880"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1079244",
+    "title": "Bonhoeffer: Pastor. Spy. Assassin",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1079244",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/9WtImcI6k9XOcnPmSeN2Kzpf4ay.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1079244"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1222248",
+    "title": "Number 24",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1222248",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/qv7crkk9fzMrvj3WqWU6PiFm12f.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1222248"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1128505",
+    "title": "My Dead Friend Zoe",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1128505",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/bRoDBpwGU5UW03hQMExN2l92Q93.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1128505"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-981063",
+    "title": "Before Dawn",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/981063",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/a51x5NWJqdzWbFA58dwRgwfgQDj.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/981063"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1325738",
+    "title": "Line Of Control",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1325738",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/4U0HlXfc0PwNNjafHZ4e2VO1KVz.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1325738"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1051486",
+    "title": "Stockholm Bloodbath",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1051486",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/tzXOB8nxO70SfSbOhrYcY94x6MI.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1051486"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-932086",
+    "title": "Horizon: An American Saga - Chapter 1",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/932086",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/hqDkO0W9uk4aiwzn3pTeLO7NPZD.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/932086"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-395817",
+    "title": "The Thicket",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/395817",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/ukqWWQrJRgJym6dsTt1x3EwR2Kp.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/395817"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1032425",
+    "title": "The Dead Don't Hurt",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1032425",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/h5rP0l3n6y8GNMuPVrUANKnQkSY.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1032425"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1120368",
+    "title": "Horizon: An American Saga - Chapter 2",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1120368",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/2Ot7mpKYgqZfkGRaeV2kaHqKFkS.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1120368"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-710258",
+    "title": "Rust",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/710258",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/tbJ3RkA2s6X5qrBzrYHYTxvDBui.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/710258"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1216299",
+    "title": "The Night They Came Home",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1216299",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/3ot1GDhZMGTeOcI23BI7A2IlFCO.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1216299"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1357886",
+    "title": "Django Undisputed",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1357886",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/porcUhC4jqFt72TaxbjOQo2lTzL.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1357886"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1249358",
+    "title": "Taken from Rio Bravo",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1249358",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/MmloqTsQOiVeboViexrNP4n6av.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1249358"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1179521",
+    "title": "Calamity Jane",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1179521",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/3XwylJi2GRLAEqhIUb9tf9ue4Hn.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1179521"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1069387",
+    "title": "Pedro Páramo",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1069387",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/gugzjPIalz5hy2RbVxqXCpXWanj.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1069387"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1337133",
+    "title": "Ghosts of Red Ridge",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1337133",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/eNyj1J1GMasLYzss61o2rXz8Lpi.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1337133"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1174487",
+    "title": "Gold Lust",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1174487",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/p0GMoTnEr8bwwy6ieDPlLXvVRa.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1174487"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1303660",
+    "title": "The Outlaws",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1303660",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/6eoeMkZgJrtZZQBh54BGnzzi92i.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1303660"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1080249",
+    "title": "Place of Bones",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1080249",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/dZFkk6qkHkyK8ZLtSnoomVzbK2c.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1080249"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1304429",
+    "title": "Thine Ears Shall Bleed",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1304429",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/bakEMfTTqxIb0Ej1VTmE3nWr86e.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1304429"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1148685",
+    "title": "Outlaw Posse",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1148685",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/hx50kyVWreLuQiUUBlAviDyIhVi.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1148685"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1201597",
+    "title": "Unto the Apparition of Phantoms",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1201597",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/kabPwCJx4PNaVJF5mUcfTrL3oZv.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1201597"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1083455",
+    "title": "Last Flamingo of the Red Summer Sunset",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1083455",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/zGYHuuXFxKASl5uMkvpyFiPLgOo.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1083455"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1254650",
+    "title": "The Ecstasy of Gold: The Treasure of Jesse James",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "year": 2024,
+    "url": "https://nxsha.space/watch/movie/1254650",
+    "provider": "Nxsha",
+    "thumb": "https://image.tmdb.org/t/p/w500/fJUlY3al9DW9MqgALoCA4KUHeAr.jpg",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1254650"
+      }
+    ]
   }
 ];
 
