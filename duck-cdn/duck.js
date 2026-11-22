@@ -451,6 +451,1105 @@ const publisherPicks = [
   }
 ];
 
+const recentMovies = [
+  {
+    "id": "film:apple-6821732138",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "The Odyssey (2026)",
+    "year": 2026,
+    "releaseDate": "2026-07-17",
+    "url": "https://itunes.apple.com/us/movie/the-odyssey-2026/id6821732138?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/d8/84/43/d88443cf-b9c1-ca18-9ffb-4283bd423f3d/UNI_ODYSSEY_THE_TH_ITUNES_EPO_ARTWORK_WW_ARTWORK_EN_2000x3000_5LMHTJ00000933.jpg/115x170bb.png",
+    "tags": "Action & Adventure",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/e7/76/87/e776879a-62bd-9272-0b44-eb7f29f9ccc9/mzvf_6503212912483605266.640x354.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6808370288",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Heart of the Beast",
+    "year": 2026,
+    "releaseDate": "2026-09-25",
+    "url": "https://itunes.apple.com/us/movie/heart-of-the-beast/id6808370288?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/66/4c/c9/664cc989-15d8-c0b0-f272-848ce2ea11af/Heart_of_the_Beast_EN_2000x3000.jpg/115x170bb.png",
+    "tags": "Action & Adventure",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/ea/23/45/ea234554-e485-3127-5771-0cec65cf08e9/mzvf_2091683473062207051.640x354.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6793590242",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Spider-Man: Brand New Day",
+    "year": 2026,
+    "releaseDate": "2026-07-31",
+    "url": "https://itunes.apple.com/us/movie/spider-man-brand-new-day/id6793590242?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/1d/28/d7/1d28d78b-a9e3-b0de-fb36-de221d09e2c6/DP_10459864_SPIDER-MANBRANDNEWDAY_2000x3000_PreorderKeyArt_English.png/115x170bb.png",
+    "tags": "Action & Adventure",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/79/07/bd/7907bd6e-acaa-12cf-2f13-c681d76711bc/mzvf_5293061469188371973.640x356.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6808034868",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Verity",
+    "year": 2026,
+    "releaseDate": "2026-10-02",
+    "url": "https://itunes.apple.com/us/movie/verity/id6808034868?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f3/a5/a9/f3a5a9b6-a6c2-ae0b-347f-f1833e7973ff/2000x3000_Verity.jpg/115x170bb.png",
+    "tags": "Thriller",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/17/41/78/1741789f-1493-ff3d-094e-5611c047f592/mzvf_9908087313119493246.640x356.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6807575287",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Resident Evil (2026)",
+    "year": 2026,
+    "releaseDate": "2026-09-18",
+    "url": "https://itunes.apple.com/us/movie/resident-evil-2026/id6807575287?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/55/73/ea/5573ea8f-0627-4e78-194f-9498c5fd75c8/DP_10615928_RESIDENTEVIL_2026_2000x3000_HEKeyArt.jpg/115x170bb.png",
+    "tags": "Horror",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/70/e1/19/70e119de-eeef-0be1-867b-e0026209ef1b/mzvf_5836621780582819557.640x356.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6817876384",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Primetime",
+    "year": 2026,
+    "releaseDate": "2026-09-25",
+    "url": "https://itunes.apple.com/us/movie/primetime/id6817876384?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/80/61/85/80618575-5bd7-88d9-1a2f-3be8bc13ea39/A24-Primetime-Transactional-Movies-Cover.jpg/115x170bb.png",
+    "tags": "Thriller",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/7e/d0/bc/7ed0bc7c-831b-37b3-a888-f0dee001385c/mzvf_3394823629755399384.640x480.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6805025142",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Coyote vs. Acme",
+    "year": 2026,
+    "releaseDate": "2026-08-28",
+    "url": "https://itunes.apple.com/us/movie/coyote-vs-acme/id6805025142?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/9e/b9/1a/9eb91a5c-41b5-d06a-f053-809d77037bd8/COYOTE_VS_ACME__Apple_poster_art_2000x3000.png/115x170bb.png",
+    "tags": "Comedy",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/30/70/3d/30703d5b-36c1-3ac5-3411-c49a48cc6871/mzvf_16012456779562656141.640x356.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6817052242",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Other Mommy",
+    "year": 2026,
+    "releaseDate": "2026-10-09",
+    "url": "https://itunes.apple.com/us/movie/other-mommy/id6817052242?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/78/e8/73/78e873a6-5e2b-7eb5-608e-7b429b668a49/OtherMommy_LSR_2000x3000.jpg/115x170bb.png",
+    "tags": "Horror",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/82/c8/37/82c837e5-38f3-b35b-ad65-346e748cc7df/mzvf_16160902182279657171.640x386.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6801608783",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Mutiny",
+    "year": 2026,
+    "releaseDate": "2026-08-21",
+    "url": "https://itunes.apple.com/us/movie/mutiny/id6801608783?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/8e/c2/96/8ec29688-cdec-cf19-72eb-bc4506c16feb/Mutiny_iTunesStore_Movies_Cvr.png/115x170bb.png",
+    "tags": "Action & Adventure",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/3e/5f/71/3e5f71bd-9bda-4012-87d9-ada03b62ebe9/mzvf_13243779176031137171.640x476.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6818253143",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Musk",
+    "year": 2026,
+    "releaseDate": "2026-10-09",
+    "url": "https://itunes.apple.com/us/movie/musk/id6818253143?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/87/e8/41/87e841c6-1f9f-d652-b025-36744ac2a7c5/MUSK_Amazon_keyart_2000x3000_extendedcut_2.jpg/115x170bb.png",
+    "tags": "Documentary",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/66/6b/43/666b439b-2d93-2532-90ce-fc1144970857/mzvf_16121225260446712446.640x440.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-1880810604",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Project Hail Mary",
+    "year": 2026,
+    "releaseDate": "2026-03-20",
+    "url": "https://itunes.apple.com/us/movie/project-hail-mary/id1880810604?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/72/91/05/72910566-11dc-349d-00f6-9320bb8f5f86/2000x3000_ProjectHailMary.jpg/115x170bb.png",
+    "tags": "Action & Adventure",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/6b/2b/49/6b2b4979-d190-93f5-f932-259bc8939e3c/mzvf_3247962505325614139.640x426.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6800063149",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "The Sheep Detectives",
+    "year": 2026,
+    "releaseDate": "2026-05-08",
+    "url": "https://itunes.apple.com/us/movie/the-sheep-detectives/id6800063149?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/25/ef/03/25ef03ce-f0a6-1582-bc55-87875e22823d/2000x3000_SheepDetectives.jpg/115x170bb.png",
+    "tags": "Comedy",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/a7/92/f4/a792f4b2-2444-6b6f-ac37-c4158c19b424/mzvf_990755335582447605.640x424.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-1896844187",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Disclosure Day",
+    "year": 2026,
+    "releaseDate": "2026-06-12",
+    "url": "https://itunes.apple.com/us/movie/disclosure-day/id1896844187?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c4/e1/7f/c4e17f16-e085-54d5-bc1d-7c99258bf053/UNI_DISCLOSURE_DAY_TH_ITUNES_EPO_WW_ARTWORK_EN_2000x3000_5F1LFI0000046N.png/115x170bb.png",
+    "tags": "Sci-Fi & Fantasy",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/c1/d0/9f/c1d09f87-27ae-8963-e669-72aceabaff00/mzvf_16817627972652138830.640x356.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6822549451",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Drink Coffee, Talk Fast: A Documentary About Gilmore Girls",
+    "year": 2026,
+    "releaseDate": "2026-11-10",
+    "url": "https://itunes.apple.com/us/movie/drink-coffee-talk-fast-a-documentary-about-gilmore-girls/id6822549451?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ee/a6/cb/eea6cb37-b9ac-e71c-c07c-8d1928f2f5df/DCTF_Apple_MainPoster_2000x3000_V03.png/115x170bb.png",
+    "tags": "Documentary",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/62/ce/a3/62cea3dd-9142-90f5-74f5-194c35445d0e/mzvf_14462839305534387079.640x478.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6788867495",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "The End of Oak Street",
+    "year": 2026,
+    "releaseDate": "2026-08-14",
+    "url": "https://itunes.apple.com/us/movie/the-end-of-oak-street/id6788867495?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b5/8e/52/b58e52f2-d414-d676-786e-ef092891da36/End_of_Oak_Street_PREM_V_KA_TT_2000x3000_300dpi_EN.png/115x170bb.png",
+    "tags": "Thriller",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/f4/59/a1/f459a107-b4ad-984f-aca8-fd915f3baeab/mzvf_15555553620843313949.640x354.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6803706922",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Practical Magic 2",
+    "year": 2026,
+    "releaseDate": "2026-09-11",
+    "url": "https://itunes.apple.com/us/movie/practical-magic-2/id6803706922?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/d8/ec/a2/d8eca2fc-807c-c146-6818-bf085c851ab6/Practical_Magic_2_PREM_V_KA_TT_2000x3000_EN.png/115x170bb.png",
+    "tags": "Comedy",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/e4/4e/1c/e44e1c62-90e0-9955-6d24-7833399d932c/mzvf_15359391274791814974.640x356.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6805267689",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "By Any Means",
+    "year": 2026,
+    "releaseDate": "2026-09-04",
+    "url": "https://itunes.apple.com/us/movie/by-any-means/id6805267689?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/2a/b3/71/2ab37114-7fc2-195e-523c-689d8310900f/By_Any_Means_EN_AMZ_2000x3000.jpg/115x170bb.png",
+    "tags": "Action & Adventure",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/68/ec/34/68ec3480-8e30-6b22-633f-2095ee8a8ab7/mzvf_15029923825773642354.640x354.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6825120884",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Sense and Sensibility (2026)",
+    "year": 2026,
+    "releaseDate": "2026-10-16",
+    "url": "https://itunes.apple.com/us/movie/sense-and-sensibility-2026/id6825120884?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/42/f2/04/42f2040e-abd9-69b7-70f5-59a983d83199/SENSE_AND_SENSIBILITY_PVOD_LSR_2000x3000_Poster.jpg/115x170bb.png",
+    "tags": "Drama",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/52/b6/e7/52b6e72d-aaaf-8969-4a62-8283a323e0f6/mzvf_631116927089356212.640x480.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6830390267",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "The Beast",
+    "year": 2026,
+    "releaseDate": "2026-10-09",
+    "url": "https://itunes.apple.com/us/movie/the-beast/id6830390267?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c9/38/1c/c9381c2f-1625-e503-dbc1-e59ad567e348/Apple_2x3_Cover_ALT.jpg/115x170bb.png",
+    "tags": "Thriller",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/0b/4b/a4/0b4ba428-ac51-7efe-721b-f42391a66118/mzvf_12250939607781159606.640x356.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-1886871755",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "The Super Mario Galaxy Movie",
+    "year": 2026,
+    "releaseDate": "2026-04-01",
+    "url": "https://itunes.apple.com/us/movie/the-super-mario-galaxy-movie/id1886871755?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/a3/5c/e7/a35ce775-baf8-f066-ab8e-c97a550a771d/UNI_SUPER_MARIO_GALAXY_MOVIE_THE_TH_ITUNES_EPO_WW_ARTWORK_EN_2000x3000_5BL7AB000001VT.lsr/115x170bb.png",
+    "tags": "Kids & Family",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/e1/f3/d4/e1f3d410-d870-ee39-6fe6-de7018fc73b5/mzvf_804722456223818936.640x354.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-1849667590",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Die My Love",
+    "year": 2025,
+    "releaseDate": "2025-11-07",
+    "url": "https://itunes.apple.com/us/movie/die-my-love/id1849667590?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/45/ab/2a/45ab2ac7-9b35-b2ff-cc5e-99116f47e41a/DML-Transactional-Movies-Cover-EN.png/115x170bb.png",
+    "tags": "Drama",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/21/0f/ca/210fca02-2b28-8433-a5c3-80fc585150b0/mzvf_4957237617719712176.640x480.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6779829484",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Minions & Monsters",
+    "year": 2026,
+    "releaseDate": "2026-07-01",
+    "url": "https://itunes.apple.com/us/movie/minions-monsters/id6779829484?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/e1/8b/fd/e18bfd92-6134-5d01-561a-ff576fc03df6/tns.jfvslrom.jpg/115x170bb.png",
+    "tags": "Kids & Family",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/3b/d1/ae/3bd1aec4-9551-29b8-bfda-6aeaa92fe907/mzvf_3813608491432498328.640x342.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6811252847",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Forgotten Island",
+    "year": 2026,
+    "releaseDate": "2026-09-25",
+    "url": "https://itunes.apple.com/us/movie/forgotten-island/id6811252847?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/56/60/1d/56601def-79d1-cbdc-2d36-a0c646469283/ForgottenIsland_AllWindow_LSR_2000x3000.jpg/115x170bb.png",
+    "tags": "Kids & Family",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/a2/c9/8a/a2c98aeb-956d-4eb9-1940-3fca0b3a2a9e/mzvf_3139720761417499970.640x362.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6824669312",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "A Talent for Murder",
+    "year": 2026,
+    "releaseDate": "2026-10-23",
+    "url": "https://itunes.apple.com/us/movie/a-talent-for-murder/id6824669312?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/93/6d/d3/936dd3ea-88ce-99c5-4923-fdd287f476cd/ATFM_Apple_KeyArt_2000x3000_2.jpg/115x170bb.png",
+    "tags": "Thriller",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/f3/b1/f0/f3b1f033-b392-d544-5464-41288aa5fa4c/mzvf_10948787944632973517.640x458.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6799248851",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Hope",
+    "year": 2026,
+    "releaseDate": "2026-09-09",
+    "url": "https://itunes.apple.com/us/movie/hope/id6799248851?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/e9/85/8b/e9858b8b-8883-3801-0cd1-470f0685e1a5/Neon_Hope_Poster_2000x3000_R1.png/115x170bb.png",
+    "tags": "Action & Adventure",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/07/a8/c8/07a8c80c-8db2-c9a2-552a-e4f4ab0a96f4/mzvf_9814600059994185596.640x356.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6799165508",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Buddy",
+    "year": 2026,
+    "releaseDate": "2026-08-28",
+    "url": "https://itunes.apple.com/us/movie/buddy/id6799165508?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/57/bb/eb/57bbeb9a-7c80-667a-ad01-36e44781e245/Buddy_U00282026_U0029_iTunesStore_2000x3000_CoverArt.png/115x170bb.png",
+    "tags": "Horror",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/01/7a/7d/017a7d42-eb41-9419-0a8b-c57d892535cd/mzvf_8500086245667884951.640x480.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6805950597",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Fall 2: Deadpoint",
+    "year": 2026,
+    "releaseDate": "2026-09-02",
+    "url": "https://itunes.apple.com/us/movie/fall-2-deadpoint/id6805950597?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/29/36/18/293618a3-a553-cf97-49b3-1e062b2ee655/FALL2_Deadpoint_iTunesStore_Movies_Cvr.png/115x170bb.png",
+    "tags": "Thriller",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/8b/53/c7/8b53c7e1-3b61-05a9-d76f-0ed713fe084e/mzvf_15406189554158104944.640x458.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6791110621",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Toy Story 5",
+    "year": 2026,
+    "releaseDate": "2026-06-19",
+    "url": "https://itunes.apple.com/us/movie/toy-story-5/id6791110621?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/1f/35/97/1f35974a-983b-f14b-acf5-ebe2e76d3385/DIS_TOY_STORY_5_TH_ITUNES_WW_ARTWORK_EN_2000x3000_5H9HF800000DYA.png/115x170bb.png",
+    "tags": "Action & Adventure",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/ae/d5/74/aed57466-2407-4460-8254-4f6f67b749b4/mzvf_17611669161972179743.640x458.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6786801261",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "The Invite",
+    "year": 2026,
+    "releaseDate": "2026-07-10",
+    "url": "https://itunes.apple.com/us/movie/the-invite/id6786801261?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/d3/0d/4c/d30d4cbd-888c-5784-5ff1-812c985f9ede/A24-TheInvite-Transactional-Movies-Cover.png/115x170bb.png",
+    "tags": "Comedy",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/5c/74/62/5c74620e-de30-f67a-0559-e49d66aa4ae7/mzvf_7125578552624870371.640x460.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-1817243265",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "How to Train Your Dragon (2025)",
+    "year": 2025,
+    "releaseDate": "2025-06-13",
+    "url": "https://itunes.apple.com/us/movie/how-to-train-your-dragon-2025/id1817243265?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b3/30/c2/b330c25c-eb84-b64e-845b-80e980b8ccd5/tns.ydisuocb.lsr/115x170bb.png",
+    "tags": "Action & Adventure",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/44/18/4f/44184f2c-ed76-d644-4a8d-c73931843e70/mzvf_14694758459260152916.640x356.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-1895068395",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Michael",
+    "year": 2026,
+    "releaseDate": "2026-04-24",
+    "url": "https://itunes.apple.com/us/movie/michael/id1895068395?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/96/6f/02/966f02ff-4212-fafe-3c8c-fc03b4541ca3/Michael_iTunesStore_Movies_Cvr.png/115x170bb.png",
+    "tags": "Drama",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/a8/bd/2d/a8bd2d95-2b4d-e42d-17da-918f538f8795/mzvf_16010139893679553718.640x458.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6828622577",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "The Mongoose",
+    "year": 2026,
+    "releaseDate": "2026-10-30",
+    "url": "https://itunes.apple.com/us/movie/the-mongoose/id6828622577?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/fd/37/5d/fd375d84-76d1-d0b7-fe63-56c1dcdb6f53/SPE_MONGOOSE_TH_WW_ARTWORK_EN-US_2000x3000_3U6QFC00000DG1.jpg/115x170bb.png",
+    "tags": "Drama",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/e7/60/c8/e760c88d-a251-c237-cedd-6e5d10636c97/mzvf_2656184240750470152.640x460.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6786409023",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Tom Clancy's Jack Ryan: Ghost War",
+    "year": 2026,
+    "releaseDate": "2026-05-20",
+    "url": "https://itunes.apple.com/us/movie/tom-clancys-jack-ryan-ghost-war/id6786409023?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/8a/53/af/8a53afef-a0c7-65e6-4788-ff5b3db8b4c7/2000x3000_TomClancysJackRyanGhostWar.jpg/115x170bb.png",
+    "tags": "Action & Adventure",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/8b/2a/aa/8b2aaa43-6259-4e7b-e88e-77c21d84b488/mzvf_1487702897023909933.640x354.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6812502198",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "The History of Concrete",
+    "year": 2026,
+    "releaseDate": "2026-09-18",
+    "url": "https://itunes.apple.com/us/movie/the-history-of-concrete/id6812502198?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/1a/0c/36/1a0c369a-92b2-fde6-3abd-9ecdc2fc7845/MAG_HISTORY_OF_CONCRETE_THE_TH_POSTER_WW_ARTWORK_EN_2000x3000_5JPP3G00000214.jpg/115x170bb.png",
+    "tags": "Documentary",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/1f/0a/e5/1f0ae5e1-e43b-609e-3d58-c1f0e42153af/mzvf_16664705123465645545.640x480.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-1895945921",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Obsession (2026)",
+    "year": 2026,
+    "releaseDate": "2026-05-15",
+    "url": "https://itunes.apple.com/us/movie/obsession-2026/id1895945921?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/26/db/16/26db1681-d180-1d95-cb5d-7c6f3199e8fe/OBSESSION_PVOD_LSR_2000x3000_Poster.jpg/115x170bb.png",
+    "tags": "Horror",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/95/e3/d6/95e3d6fe-c74f-3759-0b6e-d352136207dd/mzvf_3423949509736181867.640x480.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6829034602",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Rolling Loud: The Movie",
+    "year": 2026,
+    "releaseDate": "2026-10-02",
+    "url": "https://itunes.apple.com/us/movie/rolling-loud-the-movie/id6829034602?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/9e/35/79/9e357981-e0c9-07c3-b9d1-b59f389c8171/RL_Apple_key_2000x3000.png/115x170bb.png",
+    "tags": "Comedy",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/33/23/17/33231724-e945-9e86-41e9-2e2665ddf84a/mzvf_7691983638099833513.640x478.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6781748241",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Young Washington",
+    "year": 2026,
+    "releaseDate": "2026-07-03",
+    "url": "https://itunes.apple.com/us/movie/young-washington/id6781748241?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/da/03/26/da03264c-7df6-b70e-9352-ce16b60db735/Transactional-Artwork-Young-Washington-Title-Art_2000x3000.png/115x170bb.png",
+    "tags": "Action & Adventure",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/a7/c2/2c/a7c22cab-a4fe-ba68-e812-ebd144d933eb/mzvf_15613941069804039238.640x354.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-1817250319",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Ballerina: From the World of John Wick",
+    "year": 2025,
+    "releaseDate": "2025-06-06",
+    "url": "https://itunes.apple.com/us/movie/ballerina-from-the-world-of-john-wick/id1817250319?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/f4/03/d9/f403d96e-5285-86f8-f44a-e5d8785eae0c/Ballerina_2000x3000.png/115x170bb.png",
+    "tags": "Action & Adventure",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/be/98/a1/be98a100-8906-42dd-6fb5-c4346a090040/mzvf_10346687311627190103.640x352.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6802507831",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Tony",
+    "year": 2026,
+    "releaseDate": "2026-08-21",
+    "url": "https://itunes.apple.com/us/movie/tony/id6802507831?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/78/96/a4/7896a487-da45-708f-3b99-021a7bad0e94/TONVOD_36_DIGITAL_FINAL_2000x3000_V1.0.jpg/115x170bb.png",
+    "tags": "Drama",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/b1/26/ba/b126baa8-2e74-90a6-415e-80b79255f54b/mzvf_10978689943550977457.640x460.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6799184988",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Runner",
+    "year": 2026,
+    "releaseDate": "2026-09-11",
+    "url": "https://itunes.apple.com/us/movie/runner/id6799184988?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f9/fd/0f/f9fd0fee-e646-8a3b-33f4-ac0fd3158140/Runner-Title-Art-2000x3000.png/115x170bb.png",
+    "tags": "Action & Adventure",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/02/0c/37/020c37d4-202f-b32c-02ec-5c9e56c0e7e0/mzvf_3724095244313749463.640x356.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6785562001",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "The Weight",
+    "year": 2026,
+    "releaseDate": "2026-09-18",
+    "url": "https://itunes.apple.com/us/movie/the-weight/id6785562001?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/52/bf/aa/52bfaa8f-eaff-505a-0322-0eb1effe5a98/TheWeight_iTunes_Poster_2000x3000.jpg/115x170bb.png",
+    "tags": "Thriller",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/18/bb/04/18bb0480-db50-8668-f27a-987a3a47d55e/mzvf_11107236628877221358.640x354.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6816251186",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Your Mother Your Mother Your Mother",
+    "year": 2026,
+    "releaseDate": "2026-09-24",
+    "url": "https://itunes.apple.com/us/movie/your-mother-your-mother-your-mother/id6816251186?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/9a/a0/2c/9aa02c08-1b50-39bf-3be8-c7e6c4f709c4/2000x3000_YourMotherYourMotherYourMother.jpg/115x170bb.png",
+    "tags": "Action & Adventure",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/0e/6d/7d/0e6d7d3b-6d94-90a2-6333-ec31db11db7d/mzvf_15253352492523943145.640x480.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6812633424",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "The Dog Stars",
+    "year": 2026,
+    "releaseDate": "2026-08-26",
+    "url": "https://itunes.apple.com/us/movie/the-dog-stars/id6812633424?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b4/9b/54/b49b5457-ecf6-b887-9ad6-45a8daa934b4/TheDogStars_Apple_CoverArt_2000x3000.png/115x170bb.png",
+    "tags": "Thriller",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/a3/5e/9f/a35e9f33-9564-f30d-a9b1-808bcd7821df/mzvf_8438284579142651396.640x354.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6828743254",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "The Last Temptation of Becky",
+    "year": 2026,
+    "releaseDate": "2026-11-20",
+    "url": "https://itunes.apple.com/us/movie/the-last-temptation-of-becky/id6828743254?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/16/11/15/16111564-0931-efbd-aebc-e1638c74e78e/LastTemptationOfBecky_LSR_2000x3000.png/115x170bb.png",
+    "tags": "Action & Adventure",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/16/eb/92/16eb9247-0dc4-17ea-b561-9ad806eb5dda/mzvf_13842894061546558060.640x356.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-1725365997",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "releaseDate": "2024-03-01",
+    "url": "https://itunes.apple.com/us/movie/dune-part-two/id1725365997?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/71/a8/31/71a8312e-a20a-29b2-af70-5cab08908657/aca7621e-74e7-419a-96cd-5aaff99fb0cc_DUNE_PART2_V_DD_KA_TT_2000x3000_300dpi_EN-srgb.lsr/115x170bb.png",
+    "tags": "Action & Adventure",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video126/v4/63/8a/25/638a25e9-67b7-241f-3604-1e1167db8d8a/mzvf_15647338716229668008.640x450.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-6796830768",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "Insidious: Out of the Further",
+    "year": 2026,
+    "releaseDate": "2026-08-21",
+    "url": "https://itunes.apple.com/us/movie/insidious-out-of-the-further/id6796830768?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c3/e4/5a/c3e45a67-bd8f-848e-b34d-b0d8b0ef99fc/SPE_INSIDIOUS_OUT_OF_THE_FURTHER_TH_PRE_WW_ARTWORK_EN-US_2000x3000_3U6QFC000008DU.jpg/115x170bb.png",
+    "tags": "Horror",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/5c/3b/01/5c3b01c1-c68c-33e8-f552-c6bb0bbb6c10/mzvf_11464843415214381727.640x356.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:apple-1839381371",
+    "cat": "CINEMA",
+    "kind": "storeMovie",
+    "title": "One Battle After Another",
+    "year": 2025,
+    "releaseDate": "2025-09-26",
+    "url": "https://itunes.apple.com/us/movie/one-battle-after-another/id1839381371?uo=2",
+    "provider": "Apple TV",
+    "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/98/6b/8f/986b8fc9-5f86-3824-3eba-a46515ee289c/One_Battle_After_Another_STD_APO_V_DD_KA_TT_2000x3000_300dpi_EN.png/115x170bb.png",
+    "tags": "Action & Adventure",
+    "sources": [
+      {
+        "key": "preview",
+        "label": "Official preview",
+        "type": "video",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/9f/a0/bf/9fa0bf48-e7f2-7706-693c-db020a45a106/mzvf_1718007148803671572.640x460.h264lc.U.p.m4v"
+      }
+    ]
+  },
+  {
+    "id": "film:blender-bd0084a5-1d26-4816-ab5e-1bad9e2fb990",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "title": "WING IT!",
+    "year": 2023,
+    "releaseDate": "2023-09-12",
+    "url": "https://video.blender.org/w/pkDDcE7HiLU3UTGmRV1nJG",
+    "provider": "Blender Studio",
+    "thumb": "https://video.blender.org/lazy-static/thumbnails/87971309-dcb1-4583-b4f5-f4521dad2fc8.jpg",
+    "runtimeSeconds": 238,
+    "sources": [
+      {
+        "key": "video",
+        "label": "Studio video",
+        "type": "video",
+        "url": "https://video.blender.org/object-storage/web_videos/9178581e-4d24-4a67-adf2-a30eadfaf32f-1080.mp4"
+      },
+      {
+        "key": "embed",
+        "label": "Studio player",
+        "type": "embed",
+        "url": "https://video.blender.org/videos/embed/pkDDcE7HiLU3UTGmRV1nJG"
+      }
+    ]
+  },
+  {
+    "id": "film:blender-1ba07bbb-1456-4293-99a6-833fa450eda0",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "title": "SINGULARITY",
+    "year": 2026,
+    "releaseDate": "2026-05-11",
+    "url": "https://video.blender.org/w/4pSeQCu9XXz9wWMh5gTNMf",
+    "provider": "Blender Studio",
+    "thumb": "https://video.blender.org/lazy-static/thumbnails/54d3fc9c-96ba-4108-bb2f-ba27f5c71ae9.jpg",
+    "runtimeSeconds": 391,
+    "sources": [
+      {
+        "key": "video",
+        "label": "Studio video",
+        "type": "video",
+        "url": "https://video.blender.org/object-storage/web_videos/f91fd74e-a81f-48ec-b92b-c9504ac46e31-1080.mp4"
+      },
+      {
+        "key": "embed",
+        "label": "Studio player",
+        "type": "embed",
+        "url": "https://video.blender.org/videos/embed/4pSeQCu9XXz9wWMh5gTNMf"
+      }
+    ]
+  },
+  {
+    "id": "film:blender-04da454b-9893-4184-98f3-248d00625efe",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "title": "Charge",
+    "year": 2022,
+    "releaseDate": "2022-12-14",
+    "url": "https://video.blender.org/w/1AKMruUNPJQQQ4bvtHYVZQ",
+    "provider": "Blender Studio",
+    "thumb": "https://video.blender.org/lazy-static/thumbnails/ffd458f8-adaf-4d95-8e09-8cbef33fd9b4.jpg",
+    "runtimeSeconds": 263,
+    "sources": [
+      {
+        "key": "video",
+        "label": "Studio video",
+        "type": "video",
+        "url": "https://video.blender.org/object-storage/web_videos/020223f7-9721-4288-afab-71594f8d2411-1608.mp4"
+      },
+      {
+        "key": "embed",
+        "label": "Studio player",
+        "type": "embed",
+        "url": "https://video.blender.org/videos/embed/1AKMruUNPJQQQ4bvtHYVZQ"
+      }
+    ]
+  },
+  {
+    "id": "film:blender-a69d68a5-a0e0-4a80-9d66-49f093c97aaf",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "title": "Sprite Fright",
+    "year": 2021,
+    "releaseDate": "2021-10-28",
+    "url": "https://video.blender.org/w/mziZQzmf95pGMSqk7BPZvi",
+    "provider": "Blender Studio",
+    "thumb": "https://video.blender.org/lazy-static/thumbnails/ff105d09-ca07-4128-b5f7-6e25351bb899.jpg",
+    "runtimeSeconds": 630,
+    "sources": [
+      {
+        "key": "video",
+        "label": "Studio video",
+        "type": "video",
+        "url": "https://video.blender.org/object-storage/web_videos/a69d68a5-a0e0-4a80-9d66-49f093c97aaf-804.mp4"
+      },
+      {
+        "key": "embed",
+        "label": "Studio player",
+        "type": "embed",
+        "url": "https://video.blender.org/videos/embed/mziZQzmf95pGMSqk7BPZvi"
+      }
+    ]
+  },
+  {
+    "id": "film:blender-ff8fe61b-026f-4f07-b66b-2a790d6f6ab1",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "title": "Coffee Run",
+    "year": 2020,
+    "releaseDate": "2020-05-29",
+    "url": "https://video.blender.org/w/xymLD6rkpHNug3fzzMyhmZ",
+    "provider": "Blender Studio",
+    "thumb": "https://video.blender.org/lazy-static/thumbnails/ff8fe61b-026f-4f07-b66b-2a790d6f6ab1.jpg",
+    "runtimeSeconds": 184,
+    "sources": [
+      {
+        "key": "video",
+        "label": "Studio video",
+        "type": "video",
+        "url": "https://video.blender.org/object-storage/web_videos/ff8fe61b-026f-4f07-b66b-2a790d6f6ab1-804.mp4"
+      },
+      {
+        "key": "embed",
+        "label": "Studio player",
+        "type": "embed",
+        "url": "https://video.blender.org/videos/embed/xymLD6rkpHNug3fzzMyhmZ"
+      }
+    ]
+  },
+  {
+    "id": "film:blender-3d95fb3d-c866-42c8-9db1-fe82f48ccb95",
+    "cat": "CINEMA",
+    "kind": "movie",
+    "title": "Spring",
+    "year": 2019,
+    "releaseDate": "2019-06-26",
+    "url": "https://video.blender.org/w/8B5QmoLSS3mWJ4fmZZu3Ye",
+    "provider": "Blender Studio",
+    "thumb": "https://video.blender.org/lazy-static/thumbnails/3d95fb3d-c866-42c8-9db1-fe82f48ccb95.jpg",
+    "runtimeSeconds": 464,
+    "sources": [
+      {
+        "key": "video",
+        "label": "Studio video",
+        "type": "video",
+        "url": "https://video.blender.org/object-storage/web_videos/3d95fb3d-c866-42c8-9db1-fe82f48ccb95-804.mp4"
+      },
+      {
+        "key": "embed",
+        "label": "Studio player",
+        "type": "embed",
+        "url": "https://video.blender.org/videos/embed/8B5QmoLSS3mWJ4fmZZu3Ye"
+      }
+    ]
+  }
+];
+
 function mountLocalGame(id, playArea) {
     const $ = (selector, root = playArea) => root.querySelector(selector);
     const safeGet = key => { try { return Number(localStorage.getItem(key)) || 0; } catch { return 0; } };
@@ -1023,14 +2122,14 @@ async function showPlayer(item, {loading = false} = {}) {
   document.querySelector('#playerSource').textContent = item?.label || '';
   const href = item?.video ? 'https://www.youtube.com/watch?v=' + encodeURIComponent(item.video) : item?.url;
   original.hidden = !href;
-  original.textContent = item?.provider === 'UGS' ? 'Source file' : 'Original';
+  original.textContent = item?.kind === 'storeMovie' ? 'Watch on Apple TV' : item?.provider === 'UGS' ? 'Source file' : 'Original';
   if (href) original.href = href; else original.removeAttribute('href');
   if (!item) {
     message(loading ? 'Loading game…' : 'Game unavailable', loading ? '' : 'Return to the library to choose another title.');
     return;
   }
   try {
-    if (item.kind === 'movie') { playMovie(item,signal); return; }
+    if (item.kind === 'movie' || item.kind === 'storeMovie') { playMovie(item,signal); return; }
     if (item.kind === 'game') { cleanup = mountLocalGame(item.id, area); return; }
     if (item.launchMode === 'external' || ['external','official','portal'].includes(item.kind)) {
       message(item.title, 'This title opens on its original site.', href); return;
@@ -1078,13 +2177,13 @@ function add(item) {
   if (!item.id || !item.title || items.has(item.id)) return;
   if (item.kind === 'game') item.provider = 'LOCAL';
   item.provider ||= item.cat === 'PORTALS' ? 'PORTALS' : 'OFFICIAL';
-  item.label = item.kind === 'movie' ? [item.year, item.runtimeSeconds ? Math.round(item.runtimeSeconds / 60) + ' min' : 'Full film'].filter(Boolean).join(' · ') : item.kind === 'trailer' ? 'Trailer' : item.kind === 'film' ? 'Full film' : libraries[item.provider]?.[0] || titleCase(item.provider);
+  item.label = item.kind === 'storeMovie' ? item.year + ' · Preview / Apple TV' : item.kind === 'movie' ? [item.year, item.runtimeSeconds ? Math.round(item.runtimeSeconds / 60) + ' min' : 'Full film'].filter(Boolean).join(' · ') : item.kind === 'trailer' ? 'Trailer' : item.kind === 'film' ? 'Full film' : libraries[item.provider]?.[0] || titleCase(item.provider);
   if (ranks.has(item.id)) item.thumb = '/art/gn-' + item.id.slice(3) + '.webp';
   item.keywords = [item.title,item.year || '',item.provider,item.label,item.tags || '',item.cat || ''].join(' ').toLowerCase();
   items.set(item.id, item);
 }
 
-for (const item of [...builtins, ...publisherPicks]) if (item.id !== 'notld') add({...item});
+for (const item of [...builtins, ...publisherPicks, ...recentMovies]) if (item.id !== 'notld') add({...item});
 add({id:'opium', title:'Opium', cat:'PORTALS', kind:'portal', url:'https://s3.amazonaws.com/opiumbest/study'});
 
 function reindex() {
@@ -1105,7 +2204,7 @@ function reindex() {
       item.kind === 'game' ? 20 : item.kind === 'embed' ? 200 : 300);
   }
   games.sort((a,b) => a.rank - b.rank || a.title.localeCompare(b.title,undefined,{numeric:true}));
-  movies.sort((a,b) => Number(a.kind === 'trailer') - Number(b.kind === 'trailer'));
+  movies.sort((a,b) => Number(a.kind === 'trailer') - Number(b.kind === 'trailer') || (b.year || 0) - (a.year || 0) || (b.releaseDate || '').localeCompare(a.releaseDate || ''));
   $('source').replaceChildren(new Option('All libraries',''));
   for (const [id,meta] of Object.entries(libraries)) {
     if (sources.has(id)) $('source').add(new Option(meta[0],id));
@@ -1152,7 +2251,7 @@ function drawLibrary() {
   $('pages').setAttribute('aria-label', cinema ? 'Movie pages' : 'Game pages');
   $('libraryTitle').textContent = cinema ? 'Movies' : 'Games';
 
-  $('totalCount').textContent = cinema ? number(movies.filter(m => m.kind === 'movie').length) + ' full films' : number(games.filter(g=>g.provider!=='PORTALS').length) + ' game entries';
+  $('totalCount').textContent = cinema ? number(movies.length) + ' titles' : number(games.filter(g=>g.provider!=='PORTALS').length) + ' game entries';
   $('search').value = query; $('search').placeholder = cinema ? 'Search movies…' : 'Search games…';
   $('source').parentElement.hidden = cinema; $('source').value = source; $('sort').value = sort;
   const start = (page-1)*pageSize;

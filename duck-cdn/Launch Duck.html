@@ -125,43 +125,7 @@ dialog::backdrop { background: #0b0912bc }
 @media(max-width:700px){.game-layout{grid-template-columns:1fr}.game-side{padding:12px}}
 </style>
 
-<script>if(location.protocol==="https:")window.addEventListener("DOMContentLoaded",()=>{(() => {
-  if (window !== window.top) return;
-
-  function launch() {
-    const popup = window.open('about:blank', '_blank');
-    if (!popup) return false;
-    const doc = popup.document;
-    doc.title = 'New Tab';
-    doc.documentElement.lang = 'en';
-    const viewport = doc.createElement('meta');
-    viewport.name = 'viewport';
-    viewport.content = 'width=device-width, initial-scale=1';
-    doc.head.append(viewport);
-    doc.body.style.cssText = 'margin:0;background:#121118';
-    const frame = doc.createElement('iframe');
-    frame.title = 'Duck';
-    frame.allow = 'fullscreen; autoplay; gamepad; cross-origin-isolated';
-    frame.allowFullscreen = true;
-    frame.style.cssText = 'position:fixed;inset:0;width:100%;height:100%;border:0';
-    frame.src = location.href;
-    doc.body.append(frame);
-    popup.opener = null;
-    return true;
-  }
-
-  if (launch()) return;
-  const button = document.createElement('button');
-  button.type = 'button';
-  button.textContent = 'Open in New Tab';
-  button.style.cssText = 'position:fixed;right:1rem;bottom:1rem;z-index:11;padding:.55rem .85rem;border:1px solid #685c70;border-radius:.6rem;background:#221e2a;color:#f9f3e9;font:14px system-ui;cursor:pointer';
-  button.addEventListener('click', () => {
-    if (launch()) button.remove();
-    else button.title = 'Allow pop-ups for this site to open a blank tab.';
-  });
-  document.body.append(button);
-})();
-});</script></head>
+</head>
 <body class="home">
 <svg class="symbols" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
   <symbol id="gamesIcon" viewBox="0 0 24 24"><path d="M8 7h8c2.1 0 3.5 1.5 4.1 3.8l1 5c.6 3.1-2.3 4-4.1 2l-2-2H9l-2 2c-1.8 2-4.7 1.1-4.1-2l1-5C4.4 8.5 5.9 7 8 7Z"/><path d="M8 9.5v4m-2-2h4m5.5-.6h.01m2.5 2.1h.01"/></symbol>
