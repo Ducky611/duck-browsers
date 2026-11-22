@@ -2,14 +2,17 @@
   "name": "duck-browser",
   "version": "1.0.0",
   "private": true,
-  "description": "Duck \u2014 autumn-night arcade and password-protected Scramjet browser proxy",
+  "description": "Duck arcade, game libraries, cinema and browser",
   "type": "module",
   "engines": {
     "node": ">=22.13.0"
   },
   "scripts": {
     "start": "node server.mjs",
-    "check": "node --check server.mjs && node --check public/js/proxy.js && node --check public/sw.js"
+    "check": "node --check server.mjs && node --check game-catalog.mjs && node --check game-documents.mjs && node --check public/js/arcade.js && node --check public/js/arcade-player.js && node --check public/js/local-games.js && node --check public/js/proxy.js && node --check public/sw.js && node tests/community.test.mjs && node tests/movies.test.mjs",
+    "catalog:refresh": "node scripts/import-community.mjs",
+    "movies:refresh": "node scripts/import-movies.mjs",
+    "verify:games": "node tests/game-files.test.mjs"
   },
   "dependencies": {
     "express": "^4.21.2",

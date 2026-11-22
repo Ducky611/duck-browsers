@@ -8,6 +8,7 @@
   const message = $('proxyMessage');
   const splash = $('proxySplash');
   const address = $('proxyUrl');
+  const direct = $('proxyDirect');
   let engine = null;
   let frame = null;
   let loadPromise = null;
@@ -19,6 +20,7 @@
   function explain(detail) {
     splash.hidden = false;
     message.textContent = detail;
+    $('proxyRetry').hidden = false;
   }
   function parseInput(value) {
     const typed = String(value || '').trim();
@@ -26,7 +28,8 @@
     if (/^(?:javascript|data|file|blob|vbscript|filesystem):/i.test(typed)) throw new Error('That kind of URL is not supported.');
     const looksHost = /^(?:[\w\p{L}-]+\.)+[\w\p{L}-]{2,}(?::\d+)?(?:[/?#]\S*)?$/u.test(typed);
     const scheme = /^https?:\/\//i.test(typed);
-    const queryURL = 'https://www.google.com/search?q=' + encodeURIComponent(typed);
+    // The HTML results page keeps the query URL intact inside Scramjet's frame.
+    const queryURL = 'https://html.duckduckgo.com/html/?q=' + encodeURIComponent(typed);
     const url = scheme ? new URL(typed) : looksHost ? new URL('https://' + typed) : new URL(queryURL);
     const host = url.hostname.toLowerCase();
     if (!['https:', 'http:'].includes(url.protocol) || url.username || url.password)
@@ -50,6 +53,7 @@
     open = true;
   }
   function closeBrowser() {
+    location.assign('/');
     shell.classList.remove('open');
     shell.setAttribute('aria-hidden', 'true');
     document.body.classList.remove('locked');
@@ -104,6 +108,7 @@
       if (utils?.UrlWatcherPlugin) plugins.push(new utils.UrlWatcherPlugin(url => {
         if (!open) return;
         if (document.activeElement !== address) address.value = url;
+        direct.href = url;
         record(url);
       }));
       frame = engine.createFrame(frameElement, {plugins});
@@ -120,6 +125,8 @@
     try { url = parseInput(input); }
     catch (e) { explain(e.message); status('INVALID URL'); return; }
     address.value = url;
+    direct.href = url;
+    direct.hidden = false;
     splash.hidden = false;
     message.textContent = 'Connecting through your Duck proxy…';
     try {
@@ -138,6 +145,7 @@
     if (!frame || position <= 0) return;
     position -= 1;
     address.value = navigation[position];
+    direct.href = navigation[position];
     frame.back();
     $('proxyBack').disabled = position <= 0;
     $('proxyForward').disabled = false;
@@ -146,6 +154,7 @@
     if (!frame || position >= navigation.length - 1) return;
     position += 1;
     address.value = navigation[position];
+    direct.href = navigation[position];
     frame.forward();
     $('proxyForward').disabled = position >= navigation.length - 1;
     $('proxyBack').disabled = false;
@@ -157,13 +166,14 @@
   $('proxyForward').addEventListener('click', forward);
   $('proxyReload').addEventListener('click', reload);
   $('proxyClose').addEventListener('click', closeBrowser);
-  $('proxyHome').addEventListener('click', closeBrowser);
   $('proxyRetry').addEventListener('click', () => navigate(address.value || 'example.com'));
   document.addEventListener('keydown', e => {
     if (e.key === 'Escape' && open) { e.stopImmediatePropagation(); closeBrowser(); }
   }, true);
   $('proxyBack').disabled = true;
   $('proxyForward').disabled = true;
+  const initial = new URLSearchParams(location.search).get('url');
+  if (initial) navigate(initial); else address.focus();
   // A real status check, not a fabricated ACTIVE label.
   if (location.protocol !== 'file:') {
     fetch('/health', {cache:'no-store'}).then(r => {status(r.ok ? 'SERVER ONLINE' : 'OFFLINE');}).catch(() => status('OFFLINE'));
