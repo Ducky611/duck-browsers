@@ -455,60 +455,60 @@ const recentMovies = [
   {
     "id": "film:apple-6821732138",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "The Odyssey (2026)",
     "year": 2026,
     "releaseDate": "2026-07-17",
-    "url": "https://itunes.apple.com/us/movie/the-odyssey-2026/id6821732138?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1368337",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/d8/84/43/d88443cf-b9c1-ca18-9ffb-4283bd423f3d/UNI_ODYSSEY_THE_TH_ITUNES_EPO_ARTWORK_WW_ARTWORK_EN_2000x3000_5LMHTJ00000933.jpg/115x170bb.png",
     "tags": "Action & Adventure",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/e7/76/87/e776879a-62bd-9272-0b44-eb7f29f9ccc9/mzvf_6503212912483605266.640x354.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1368337"
       }
     ]
   },
   {
     "id": "film:apple-6808370288",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "Heart of the Beast",
     "year": 2026,
     "releaseDate": "2026-09-25",
-    "url": "https://itunes.apple.com/us/movie/heart-of-the-beast/id6808370288?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1263337",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/66/4c/c9/664cc989-15d8-c0b0-f272-848ce2ea11af/Heart_of_the_Beast_EN_2000x3000.jpg/115x170bb.png",
     "tags": "Action & Adventure",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/ea/23/45/ea234554-e485-3127-5771-0cec65cf08e9/mzvf_2091683473062207051.640x354.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1263337"
       }
     ]
   },
   {
     "id": "film:apple-6793590242",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "Spider-Man: Brand New Day",
     "year": 2026,
     "releaseDate": "2026-07-31",
-    "url": "https://itunes.apple.com/us/movie/spider-man-brand-new-day/id6793590242?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/969681",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/1d/28/d7/1d28d78b-a9e3-b0de-fb36-de221d09e2c6/DP_10459864_SPIDER-MANBRANDNEWDAY_2000x3000_PreorderKeyArt_English.png/115x170bb.png",
     "tags": "Action & Adventure",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/79/07/bd/7907bd6e-acaa-12cf-2f13-c681d76711bc/mzvf_5293061469188371973.640x356.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/969681"
       }
     ]
   },
@@ -535,100 +535,100 @@ const recentMovies = [
   {
     "id": "film:apple-6807575287",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "Resident Evil (2026)",
     "year": 2026,
     "releaseDate": "2026-09-18",
-    "url": "https://itunes.apple.com/us/movie/resident-evil-2026/id6807575287?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1423191",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/55/73/ea/5573ea8f-0627-4e78-194f-9498c5fd75c8/DP_10615928_RESIDENTEVIL_2026_2000x3000_HEKeyArt.jpg/115x170bb.png",
     "tags": "Horror",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/70/e1/19/70e119de-eeef-0be1-867b-e0026209ef1b/mzvf_5836621780582819557.640x356.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1423191"
       }
     ]
   },
   {
     "id": "film:apple-6817876384",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "Primetime",
     "year": 2026,
     "releaseDate": "2026-09-25",
-    "url": "https://itunes.apple.com/us/movie/primetime/id6817876384?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1375441",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/80/61/85/80618575-5bd7-88d9-1a2f-3be8bc13ea39/A24-Primetime-Transactional-Movies-Cover.jpg/115x170bb.png",
     "tags": "Thriller",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/7e/d0/bc/7ed0bc7c-831b-37b3-a888-f0dee001385c/mzvf_3394823629755399384.640x480.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1375441"
       }
     ]
   },
   {
     "id": "film:apple-6805025142",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "Coyote vs. Acme",
     "year": 2026,
     "releaseDate": "2026-08-28",
-    "url": "https://itunes.apple.com/us/movie/coyote-vs-acme/id6805025142?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1204680",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/9e/b9/1a/9eb91a5c-41b5-d06a-f053-809d77037bd8/COYOTE_VS_ACME__Apple_poster_art_2000x3000.png/115x170bb.png",
     "tags": "Comedy",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/30/70/3d/30703d5b-36c1-3ac5-3411-c49a48cc6871/mzvf_16012456779562656141.640x356.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1204680"
       }
     ]
   },
   {
     "id": "film:apple-6817052242",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "Other Mommy",
     "year": 2026,
     "releaseDate": "2026-10-09",
-    "url": "https://itunes.apple.com/us/movie/other-mommy/id6817052242?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1400837",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/78/e8/73/78e873a6-5e2b-7eb5-608e-7b429b668a49/OtherMommy_LSR_2000x3000.jpg/115x170bb.png",
     "tags": "Horror",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/82/c8/37/82c837e5-38f3-b35b-ad65-346e748cc7df/mzvf_16160902182279657171.640x386.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1400837"
       }
     ]
   },
   {
     "id": "film:apple-6801608783",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "Mutiny",
     "year": 2026,
     "releaseDate": "2026-08-21",
-    "url": "https://itunes.apple.com/us/movie/mutiny/id6801608783?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1288445",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/8e/c2/96/8ec29688-cdec-cf19-72eb-bc4506c16feb/Mutiny_iTunesStore_Movies_Cvr.png/115x170bb.png",
     "tags": "Action & Adventure",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/3e/5f/71/3e5f71bd-9bda-4012-87d9-ada03b62ebe9/mzvf_13243779176031137171.640x476.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1288445"
       }
     ]
   },
@@ -655,20 +655,20 @@ const recentMovies = [
   {
     "id": "film:apple-1880810604",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "Project Hail Mary",
     "year": 2026,
     "releaseDate": "2026-03-20",
-    "url": "https://itunes.apple.com/us/movie/project-hail-mary/id1880810604?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/687163",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/72/91/05/72910566-11dc-349d-00f6-9320bb8f5f86/2000x3000_ProjectHailMary.jpg/115x170bb.png",
     "tags": "Action & Adventure",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/6b/2b/49/6b2b4979-d190-93f5-f932-259bc8939e3c/mzvf_3247962505325614139.640x426.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/687163"
       }
     ]
   },
@@ -695,20 +695,20 @@ const recentMovies = [
   {
     "id": "film:apple-1896844187",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "Disclosure Day",
     "year": 2026,
     "releaseDate": "2026-06-12",
-    "url": "https://itunes.apple.com/us/movie/disclosure-day/id1896844187?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1275779",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c4/e1/7f/c4e17f16-e085-54d5-bc1d-7c99258bf053/UNI_DISCLOSURE_DAY_TH_ITUNES_EPO_WW_ARTWORK_EN_2000x3000_5F1LFI0000046N.png/115x170bb.png",
     "tags": "Sci-Fi & Fantasy",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/c1/d0/9f/c1d09f87-27ae-8963-e669-72aceabaff00/mzvf_16817627972652138830.640x356.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1275779"
       }
     ]
   },
@@ -735,40 +735,40 @@ const recentMovies = [
   {
     "id": "film:apple-6788867495",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "The End of Oak Street",
     "year": 2026,
     "releaseDate": "2026-08-14",
-    "url": "https://itunes.apple.com/us/movie/the-end-of-oak-street/id6788867495?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1101383",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b5/8e/52/b58e52f2-d414-d676-786e-ef092891da36/End_of_Oak_Street_PREM_V_KA_TT_2000x3000_300dpi_EN.png/115x170bb.png",
     "tags": "Thriller",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/f4/59/a1/f459a107-b4ad-984f-aca8-fd915f3baeab/mzvf_15555553620843313949.640x354.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1101383"
       }
     ]
   },
   {
     "id": "film:apple-6803706922",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "Practical Magic 2",
     "year": 2026,
     "releaseDate": "2026-09-11",
-    "url": "https://itunes.apple.com/us/movie/practical-magic-2/id6803706922?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1302904",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/d8/ec/a2/d8eca2fc-807c-c146-6818-bf085c851ab6/Practical_Magic_2_PREM_V_KA_TT_2000x3000_EN.png/115x170bb.png",
     "tags": "Comedy",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/e4/4e/1c/e44e1c62-90e0-9955-6d24-7833399d932c/mzvf_15359391274791814974.640x356.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1302904"
       }
     ]
   },
@@ -795,60 +795,60 @@ const recentMovies = [
   {
     "id": "film:apple-6825120884",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "Sense and Sensibility (2026)",
     "year": 2026,
     "releaseDate": "2026-10-16",
-    "url": "https://itunes.apple.com/us/movie/sense-and-sensibility-2026/id6825120884?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1503762",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/42/f2/04/42f2040e-abd9-69b7-70f5-59a983d83199/SENSE_AND_SENSIBILITY_PVOD_LSR_2000x3000_Poster.jpg/115x170bb.png",
     "tags": "Drama",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/52/b6/e7/52b6e72d-aaaf-8969-4a62-8283a323e0f6/mzvf_631116927089356212.640x480.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1503762"
       }
     ]
   },
   {
     "id": "film:apple-6830390267",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "The Beast",
     "year": 2026,
     "releaseDate": "2026-10-09",
-    "url": "https://itunes.apple.com/us/movie/the-beast/id6830390267?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1185344",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c9/38/1c/c9381c2f-1625-e503-dbc1-e59ad567e348/Apple_2x3_Cover_ALT.jpg/115x170bb.png",
     "tags": "Thriller",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/0b/4b/a4/0b4ba428-ac51-7efe-721b-f42391a66118/mzvf_12250939607781159606.640x356.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1185344"
       }
     ]
   },
   {
     "id": "film:apple-1886871755",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "The Super Mario Galaxy Movie",
     "year": 2026,
     "releaseDate": "2026-04-01",
-    "url": "https://itunes.apple.com/us/movie/the-super-mario-galaxy-movie/id1886871755?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1226863",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/a3/5c/e7/a35ce775-baf8-f066-ab8e-c97a550a771d/UNI_SUPER_MARIO_GALAXY_MOVIE_THE_TH_ITUNES_EPO_WW_ARTWORK_EN_2000x3000_5BL7AB000001VT.lsr/115x170bb.png",
     "tags": "Kids & Family",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/e1/f3/d4/e1f3d410-d870-ee39-6fe6-de7018fc73b5/mzvf_804722456223818936.640x354.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1226863"
       }
     ]
   },
@@ -875,100 +875,100 @@ const recentMovies = [
   {
     "id": "film:apple-6779829484",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "Minions & Monsters",
     "year": 2026,
     "releaseDate": "2026-07-01",
-    "url": "https://itunes.apple.com/us/movie/minions-monsters/id6779829484?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1315772",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/e1/8b/fd/e18bfd92-6134-5d01-561a-ff576fc03df6/tns.jfvslrom.jpg/115x170bb.png",
     "tags": "Kids & Family",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/3b/d1/ae/3bd1aec4-9551-29b8-bfda-6aeaa92fe907/mzvf_3813608491432498328.640x342.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1315772"
       }
     ]
   },
   {
     "id": "film:apple-6811252847",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "Forgotten Island",
     "year": 2026,
     "releaseDate": "2026-09-25",
-    "url": "https://itunes.apple.com/us/movie/forgotten-island/id6811252847?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1465063",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/56/60/1d/56601def-79d1-cbdc-2d36-a0c646469283/ForgottenIsland_AllWindow_LSR_2000x3000.jpg/115x170bb.png",
     "tags": "Kids & Family",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/a2/c9/8a/a2c98aeb-956d-4eb9-1940-3fca0b3a2a9e/mzvf_3139720761417499970.640x362.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1465063"
       }
     ]
   },
   {
     "id": "film:apple-6824669312",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "A Talent for Murder",
     "year": 2026,
     "releaseDate": "2026-10-23",
-    "url": "https://itunes.apple.com/us/movie/a-talent-for-murder/id6824669312?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1084409",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/93/6d/d3/936dd3ea-88ce-99c5-4923-fdd287f476cd/ATFM_Apple_KeyArt_2000x3000_2.jpg/115x170bb.png",
     "tags": "Thriller",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/f3/b1/f0/f3b1f033-b392-d544-5464-41288aa5fa4c/mzvf_10948787944632973517.640x458.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1084409"
       }
     ]
   },
   {
     "id": "film:apple-6799248851",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "Hope",
     "year": 2026,
     "releaseDate": "2026-09-09",
-    "url": "https://itunes.apple.com/us/movie/hope/id6799248851?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1058424",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/e9/85/8b/e9858b8b-8883-3801-0cd1-470f0685e1a5/Neon_Hope_Poster_2000x3000_R1.png/115x170bb.png",
     "tags": "Action & Adventure",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/07/a8/c8/07a8c80c-8db2-c9a2-552a-e4f4ab0a96f4/mzvf_9814600059994185596.640x356.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1058424"
       }
     ]
   },
   {
     "id": "film:apple-6799165508",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "Buddy",
     "year": 2026,
     "releaseDate": "2026-08-28",
-    "url": "https://itunes.apple.com/us/movie/buddy/id6799165508?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1514026",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/57/bb/eb/57bbeb9a-7c80-667a-ad01-36e44781e245/Buddy_U00282026_U0029_iTunesStore_2000x3000_CoverArt.png/115x170bb.png",
     "tags": "Horror",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/01/7a/7d/017a7d42-eb41-9419-0a8b-c57d892535cd/mzvf_8500086245667884951.640x480.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1514026"
       }
     ]
   },
@@ -995,20 +995,20 @@ const recentMovies = [
   {
     "id": "film:apple-6791110621",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "Toy Story 5",
     "year": 2026,
     "releaseDate": "2026-06-19",
-    "url": "https://itunes.apple.com/us/movie/toy-story-5/id6791110621?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1084244",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/1f/35/97/1f35974a-983b-f14b-acf5-ebe2e76d3385/DIS_TOY_STORY_5_TH_ITUNES_WW_ARTWORK_EN_2000x3000_5H9HF800000DYA.png/115x170bb.png",
     "tags": "Action & Adventure",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/ae/d5/74/aed57466-2407-4460-8254-4f6f67b749b4/mzvf_17611669161972179743.640x458.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1084244"
       }
     ]
   },
@@ -1075,20 +1075,20 @@ const recentMovies = [
   {
     "id": "film:apple-6828622577",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "The Mongoose",
     "year": 2026,
     "releaseDate": "2026-10-30",
-    "url": "https://itunes.apple.com/us/movie/the-mongoose/id6828622577?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1294189",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/fd/37/5d/fd375d84-76d1-d0b7-fe63-56c1dcdb6f53/SPE_MONGOOSE_TH_WW_ARTWORK_EN-US_2000x3000_3U6QFC00000DG1.jpg/115x170bb.png",
     "tags": "Drama",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/e7/60/c8/e760c88d-a251-c237-cedd-6e5d10636c97/mzvf_2656184240750470152.640x460.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1294189"
       }
     ]
   },
@@ -1135,20 +1135,20 @@ const recentMovies = [
   {
     "id": "film:apple-1895945921",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "Obsession (2026)",
     "year": 2026,
     "releaseDate": "2026-05-15",
-    "url": "https://itunes.apple.com/us/movie/obsession-2026/id1895945921?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1339713",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/26/db/16/26db1681-d180-1d95-cb5d-7c6f3199e8fe/OBSESSION_PVOD_LSR_2000x3000_Poster.jpg/115x170bb.png",
     "tags": "Horror",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/95/e3/d6/95e3d6fe-c74f-3759-0b6e-d352136207dd/mzvf_3423949509736181867.640x480.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1339713"
       }
     ]
   },
@@ -1275,40 +1275,40 @@ const recentMovies = [
   {
     "id": "film:apple-6816251186",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "Your Mother Your Mother Your Mother",
     "year": 2026,
     "releaseDate": "2026-09-24",
-    "url": "https://itunes.apple.com/us/movie/your-mother-your-mother-your-mother/id6816251186?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1437396",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/9a/a0/2c/9aa02c08-1b50-39bf-3be8-c7e6c4f709c4/2000x3000_YourMotherYourMotherYourMother.jpg/115x170bb.png",
     "tags": "Action & Adventure",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/0e/6d/7d/0e6d7d3b-6d94-90a2-6333-ec31db11db7d/mzvf_15253352492523943145.640x480.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1437396"
       }
     ]
   },
   {
     "id": "film:apple-6812633424",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "The Dog Stars",
     "year": 2026,
     "releaseDate": "2026-08-26",
-    "url": "https://itunes.apple.com/us/movie/the-dog-stars/id6812633424?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1384216",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b4/9b/54/b49b5457-ecf6-b887-9ad6-45a8daa934b4/TheDogStars_Apple_CoverArt_2000x3000.png/115x170bb.png",
     "tags": "Thriller",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/a3/5e/9f/a35e9f33-9564-f30d-a9b1-808bcd7821df/mzvf_8438284579142651396.640x354.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1384216"
       }
     ]
   },
@@ -1335,40 +1335,40 @@ const recentMovies = [
   {
     "id": "film:apple-1725365997",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "Dune: Part Two",
     "year": 2024,
     "releaseDate": "2024-03-01",
-    "url": "https://itunes.apple.com/us/movie/dune-part-two/id1725365997?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/693134",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/71/a8/31/71a8312e-a20a-29b2-af70-5cab08908657/aca7621e-74e7-419a-96cd-5aaff99fb0cc_DUNE_PART2_V_DD_KA_TT_2000x3000_300dpi_EN-srgb.lsr/115x170bb.png",
     "tags": "Action & Adventure",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video126/v4/63/8a/25/638a25e9-67b7-241f-3604-1e1167db8d8a/mzvf_15647338716229668008.640x450.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/693134"
       }
     ]
   },
   {
     "id": "film:apple-6796830768",
     "cat": "CINEMA",
-    "kind": "storeMovie",
+    "kind": "movie",
     "title": "Insidious: Out of the Further",
     "year": 2026,
     "releaseDate": "2026-08-21",
-    "url": "https://itunes.apple.com/us/movie/insidious-out-of-the-further/id6796830768?uo=2",
-    "provider": "Apple TV",
+    "url": "https://nxsha.space/watch/movie/1291595",
+    "provider": "Nxsha",
     "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/c3/e4/5a/c3e45a67-bd8f-848e-b34d-b0d8b0ef99fc/SPE_INSIDIOUS_OUT_OF_THE_FURTHER_TH_PRE_WW_ARTWORK_EN-US_2000x3000_3U6QFC000008DU.jpg/115x170bb.png",
     "tags": "Horror",
     "sources": [
       {
-        "key": "preview",
-        "label": "Official preview",
-        "type": "video",
-        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/5c/3b/01/5c3b01c1-c68c-33e8-f552-c6bb0bbb6c10/mzvf_11464843415214381727.640x356.h264lc.U.p.m4v"
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1291595"
       }
     ]
   },
@@ -1545,6 +1545,1260 @@ const recentMovies = [
         "label": "Studio player",
         "type": "embed",
         "url": "https://video.blender.org/videos/embed/8B5QmoLSS3mWJ4fmZZu3Ye"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1300968",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "year": 2026,
+    "releaseDate": "2026-11-18",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/nzIXSQNgYZwFOMrmv0d0I3ulvkM.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1300968",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1300968"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1551025",
+    "title": "Guarding Stars",
+    "year": 2026,
+    "releaseDate": "2026-11-18",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1551025",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1551025"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1595124",
+    "title": "Steps",
+    "year": 2026,
+    "releaseDate": "2026-11-20",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1595124",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1595124"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1131943",
+    "title": "Madden",
+    "year": 2026,
+    "releaseDate": "2026-11-18",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1131943",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1131943"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1381071",
+    "title": "Godzilla Minus Zero",
+    "year": 2026,
+    "releaseDate": "2026-11-03",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1381071",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1381071"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1567605",
+    "title": "Ebenezer",
+    "year": 2026,
+    "releaseDate": "2026-11-11",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1567605",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1567605"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1568060",
+    "title": "Perfect Liars",
+    "year": 2026,
+    "releaseDate": "2026-11-20",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1568060",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1568060"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1813355",
+    "title": "A Story of Derry",
+    "year": 2026,
+    "releaseDate": "2026-10-31",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1813355",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1813355"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1244523",
+    "title": "Beware Boiúna",
+    "year": 2026,
+    "releaseDate": "2026-10-01",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1244523",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1244523"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-980477",
+    "title": "Ne Zha 2",
+    "year": 2025,
+    "releaseDate": "2025-01-29",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/fcs5AdCKliQaQgXsPS9kDejamIJ.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/980477",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/980477"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1084242",
+    "title": "Zootopia 2",
+    "year": 2025,
+    "releaseDate": "2025-11-26",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1084242",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1084242"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1022789",
+    "title": "Inside Out 2",
+    "year": 2024,
+    "releaseDate": "2024-06-11",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1022789",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1022789"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1236153",
+    "title": "Mercy",
+    "year": 2026,
+    "releaseDate": "2026-01-19",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1236153",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1236153"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1616687",
+    "title": "Never Surrender",
+    "year": 2026,
+    "releaseDate": "2026-11-11",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1616687",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1616687"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1507696",
+    "title": "Apocalypse Z: New World",
+    "year": 2026,
+    "releaseDate": "2026-10-09",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1507696",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1507696"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-656908",
+    "title": "Ramayana: Rise of a Legend",
+    "year": 2026,
+    "releaseDate": "2026-11-05",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/656908",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/656908"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1562642",
+    "title": "Ghost Soldier",
+    "year": 2026,
+    "releaseDate": "2026-11-06",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1562642",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1562642"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1228834",
+    "title": "The Fix",
+    "year": 2026,
+    "releaseDate": "2026-09-10",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1228834",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1228834"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-755898",
+    "title": "War of the Worlds",
+    "year": 2025,
+    "releaseDate": "2025-07-29",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/755898",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/755898"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1741617",
+    "title": "Hansel & Gretel's Halloween",
+    "year": 2026,
+    "releaseDate": "2026-08-01",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/taNnBPN5FrJqYxsiJIqAL0KhqZ.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1741617",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1741617"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1400940",
+    "title": "Clayface",
+    "year": 2026,
+    "releaseDate": "2026-10-19",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1400940",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1400940"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1504635",
+    "title": "Great White Waters",
+    "year": 2025,
+    "releaseDate": "2025-07-07",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/1sZSRb0t4zXLv0NZdkghcpShYgf.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1504635",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1504635"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1492566",
+    "title": "Dracula Eternal",
+    "year": 2026,
+    "releaseDate": "2026-01-16",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/qDFHLI5s1o7TgeBN4wSPrvJN8D5.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1492566",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1492566"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1596275",
+    "title": "Drive - The Pretenders",
+    "year": 2026,
+    "releaseDate": "2026-10-27",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1596275",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1596275"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1195803",
+    "title": "Wicker",
+    "year": 2026,
+    "releaseDate": "2026-10-21",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1195803",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1195803"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1523145",
+    "title": "Your Heart Will Be Broken",
+    "year": 2026,
+    "releaseDate": "2026-03-26",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1523145",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1523145"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1400336",
+    "title": "Focker In-Law",
+    "year": 2026,
+    "releaseDate": "2026-11-21",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1400336",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1400336"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1697911",
+    "title": "Drummer Boy",
+    "year": 2026,
+    "releaseDate": "2026-11-05",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/bhjdgMm2fFrysSzVqv5RwRwIbVf.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1697911",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1697911"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1669915",
+    "title": "Angel and the Badman",
+    "year": 2026,
+    "releaseDate": "2026-10-08",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/mJe53zlhGBdcjtN1GqncNZ5Unm0.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1669915",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1669915"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1561834",
+    "title": "Last Meal",
+    "year": 2026,
+    "releaseDate": "2026-11-18",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/kdz0fHndmpFKb0iwJvauyPHRAh7.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1561834",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1561834"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1218925",
+    "title": "Chainsaw Man - The Movie: Reze Arc",
+    "year": 2025,
+    "releaseDate": "2025-09-19",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/jRCu8F0nypHTj9O2ofVZ42FcPER.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1218925",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1218925"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1153576",
+    "title": "Street Fighter",
+    "year": 2026,
+    "releaseDate": "2026-10-13",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1153576",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1153576"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1108427",
+    "title": "Moana",
+    "year": 2026,
+    "releaseDate": "2026-07-08",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1108427",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1108427"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-891621",
+    "title": "Wild Horse Nine",
+    "year": 2026,
+    "releaseDate": "2026-10-30",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/891621",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/891621"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1148365",
+    "title": "Matchbox the Movie",
+    "year": 2026,
+    "releaseDate": "2026-10-05",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1148365",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1148365"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1117898",
+    "title": "The Cat in the Hat",
+    "year": 2026,
+    "releaseDate": "2026-10-31",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1117898",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1117898"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1234139",
+    "title": "Jailer 2",
+    "year": 2026,
+    "releaseDate": "2026-10-14",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1234139",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1234139"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1437511",
+    "title": "How to Rob a Bank",
+    "year": 2026,
+    "releaseDate": "2026-11-10",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1437511",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1437511"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1419406",
+    "title": "The Shadow's Edge",
+    "year": 2025,
+    "releaseDate": "2025-08-16",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/cHKo3m8N1fwvEy2ZEr0xGmmMODV.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1419406",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1419406"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1571955",
+    "title": "Collision Course",
+    "year": 2026,
+    "releaseDate": "2026-10-30",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1571955",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1571955"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1384528",
+    "title": "O.M: Operation Mole",
+    "year": 2026,
+    "releaseDate": "2026-11-19",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/vFnFLqXjf7RQfkNxrrys43BZKxJ.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1384528",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1384528"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1453407",
+    "title": "Gajab Raat",
+    "year": 2026,
+    "releaseDate": "2026-10-23",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1453407",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1453407"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1389172",
+    "title": "Reporting Live",
+    "year": 2026,
+    "releaseDate": "2026-10-09",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/xVabS4lTi6IMscr2FOucxydE6ZD.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1389172",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1389172"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1291608",
+    "title": "Dhurandhar",
+    "year": 2025,
+    "releaseDate": "2025-12-05",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/5XljKEfNpuxk5NXoT8U4O9tMvsy.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1291608",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1291608"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1582770",
+    "title": "Dhurandhar: The Revenge",
+    "year": 2026,
+    "releaseDate": "2026-03-18",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1582770",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1582770"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1215889",
+    "title": "Daayra",
+    "year": 2026,
+    "releaseDate": "2026-09-18",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/eAsR8oCZGCOqaxDVt0c0WrRFjrn.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1215889",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1215889"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1493572",
+    "title": "Parivarik ManuRanjan",
+    "year": 2026,
+    "releaseDate": "2026-11-12",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/2gKGkD0pN2Ss9LrHA6tv5hEjHOs.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1493572",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1493572"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1269325",
+    "title": "Drishyam: The Conclusion",
+    "year": 2026,
+    "releaseDate": "2026-10-02",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1269325",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1269325"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1122030",
+    "title": "Alpha",
+    "year": 2026,
+    "releaseDate": "2026-07-02",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1122030",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1122030"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1375646",
+    "title": "Colony",
+    "year": 2026,
+    "releaseDate": "2026-05-21",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/enz3WLx5QU1FUyhXZld04QWIc6N.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1375646",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1375646"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1483525",
+    "title": "Possible Love",
+    "year": 2026,
+    "releaseDate": "2026-09-23",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/peucz3LYt0FnS9QV7THUcjUKYJk.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1483525",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1483525"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-607833",
+    "title": "The Intern",
+    "year": 2026,
+    "releaseDate": "2026-09-16",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/pDJEuLTnzYMOPsvpyg3VRWilalp.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/607833",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/607833"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-791523",
+    "title": "Wildwood",
+    "year": 2026,
+    "releaseDate": "2026-10-19",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/791523",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/791523"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-980431",
+    "title": "Avatar Aang: The Last Airbender",
+    "year": 2026,
+    "releaseDate": "2026-07-24",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/980431",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/980431"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1311031",
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "year": 2025,
+    "releaseDate": "2025-07-18",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1311031",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1311031"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1187326",
+    "title": "Tad and The Magic Lamp",
+    "year": 2026,
+    "releaseDate": "2026-08-26",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/AdDxZgNmRYgDuweY8899buyVqlr.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1187326",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1187326"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1543469",
+    "title": "Heartland",
+    "year": 2026,
+    "releaseDate": "2026-11-13",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1543469",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1543469"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1570488",
+    "title": "A Dog's Perfect Christmas",
+    "year": 2026,
+    "releaseDate": "2026-11-04",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1570488",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1570488"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1518204",
+    "title": "Allen",
+    "year": 2026,
+    "releaseDate": "2026-11-12",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1518204",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1518204"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1780005",
+    "title": "Surviving Hurricane Otis",
+    "year": 2026,
+    "releaseDate": "2026-10-23",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1780005",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1780005"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1389379",
+    "title": "Ranabaali",
+    "year": 2026,
+    "releaseDate": "2026-10-15",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/cXaCyYYbafVyMrs8rwKmxezBYPJ.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1389379",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1389379"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1595325",
+    "title": "The Anacondas",
+    "year": 2025,
+    "releaseDate": "2025-12-19",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/yphysF14qWFvrIbFVg3vEnbudwT.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1595325",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1595325"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1314829",
+    "title": "Monkey’s Magic Merry Go Round",
+    "year": 2026,
+    "releaseDate": "2026-05-14",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/g1v1ogfa8PCvcYJ1JSmrqbcHMAP.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1314829",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1314829"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-1561726",
+    "title": "Masterplan",
+    "year": 2026,
+    "releaseDate": "2026-10-16",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/1561726",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/1561726"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-83533",
+    "title": "Avatar: Fire and Ash",
+    "year": 2025,
+    "releaseDate": "2025-12-17",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/83533",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/83533"
+      }
+    ]
+  },
+  {
+    "id": "film:nxsha-533535",
+    "title": "Deadpool & Wolverine",
+    "year": 2024,
+    "releaseDate": "2024-07-24",
+    "cat": "CINEMA",
+    "thumb": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+    "kind": "movie",
+    "provider": "Nxsha",
+    "url": "https://nxsha.space/watch/movie/533535",
+    "sources": [
+      {
+        "key": "nxsha",
+        "label": "Nxsha player",
+        "type": "embed",
+        "url": "https://nxsha.space/watch/movie/533535"
       }
     ]
   }
