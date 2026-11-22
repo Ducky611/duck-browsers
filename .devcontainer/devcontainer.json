@@ -1,0 +1,10 @@
+{
+  "name": "Duck server",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
+  "postCreateCommand": "npm ci",
+  "postStartCommand": "bash scripts/start-codespace.sh",
+  "forwardPorts": [8080],
+  "portsAttributes": {
+    "8080": {"label":"Duck", "onAutoForward":"openBrowser"}
+  }
+}
