@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>New Tab</title><script src="/js/new-tab.js" defer></script><link rel="icon" href="/duck.png"><link rel="stylesheet" href="/browser.css"></head><body><section id="proxyShell" class="proxy-shell" aria-label="Live proxy browser" aria-hidden="false">
+  <form class="proxy-top" id="proxyForm">
+    <a href="/" class="browser-brand" aria-label="Duck home"><img src="/duck.png" alt=""></a>
+    <button type="button" id="proxyBack" title="Back" aria-label="Back">←</button>
+    <button type="button" id="proxyForward" title="Forward" aria-label="Forward">→</button>
+    <button type="button" id="proxyReload" title="Reload" aria-label="Reload">↻</button>
+    <input class="proxy-location" id="proxyUrl" aria-label="Proxy address or search" placeholder="Search DuckDuckGo or enter a URL" spellcheck="false" autocomplete="off">
+    <span id="proxyState" class="proxy-indicator" role="status">STARTING</span><a id="proxyDirect" class="proxy-direct" href="/" hidden target="_blank" rel="noopener noreferrer" title="Open this site directly">Open original</a>
+    <button type="submit" title="Go" aria-label="Go">GO</button>
+    <button type="button" id="proxyClose" title="Close browser" aria-label="Close browser">×</button>
+  </form>
+  <div class="proxy-body">
+    <div class="proxy-splash" id="proxySplash">
+      <div><h2>Duck browser</h2>
+      <p id="proxyMessage">Enter a web address or search above.</p>
+      <button type="button" id="proxyRetry" hidden>Retry</button></div>
+    </div>
+    <iframe id="proxyFrame" title="Website viewed through Scramjet proxy" referrerpolicy="no-referrer" allow="fullscreen; autoplay; gamepad; clipboard-read; clipboard-write"></iframe>
+  </div>
+  
+</section>
+<script src="/js/proxy.js" defer></script></body></html>
